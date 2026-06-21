@@ -1,0 +1,1618 @@
+{
+  "stats": {
+    "total_articles": 177,
+    "watch_targets": 42,
+    "ministries_count": 14,
+    "ministries": [
+      "IATA",
+      "JETRO",
+      "NACCSセンター",
+      "e-Gov（パブコメ）",
+      "kaijipress.com",
+      "wcoomd.org",
+      "厚生労働省",
+      "日本商工会議所",
+      "消費者庁",
+      "環境省",
+      "経済産業省",
+      "財務省",
+      "財務省・税関",
+      "農林水産省"
+    ]
+  },
+  "articles": [
+    {
+      "id": 453,
+      "title": "2026年6月【税関】リコー製トナーカートリッジ知的財産侵害差止申立の受理状況変更｜輸入通関への実務影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n84a44bac493c?sub_rt=share_pb",
+      "created_at": "2026-06-21",
+      "period_start": "2026-06-20",
+      "period_end": "2026-06-21",
+      "category": "税関"
+    },
+    {
+      "id": 452,
+      "title": "2026年6月【経産省・NACCSセンター・厚労省】輸入貿易管理令・食品監視措置・システム運用の最新情報｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n2a05611e4fcd?sub_rt=share_pb",
+      "created_at": "2026-06-20",
+      "period_start": "2026-06-19",
+      "period_end": "2026-06-20",
+      "category": "食品"
+    },
+    {
+      "id": 451,
+      "title": "2026年6月【税関】知的財産侵害物品の輸入・輸出差止申立て状況が大幅更新｜複数企業の申立取下げと新規追加、実務対応の確認が急務",
+      "note_url": "https://note.com/prime_ixia2156/n/n115bc0b65c7c?sub_rt=share_pb",
+      "created_at": "2026-06-20",
+      "period_start": "2026-06-19",
+      "period_end": "2026-06-19",
+      "category": "税関"
+    },
+    {
+      "id": 450,
+      "title": "2026年6月【経産省】ニッケル系ステンレス鋼材の不当廉売関税調査期間延長・仮決定｜中国・台湾産輸入業者への影響と対応",
+      "note_url": "https://note.com/prime_ixia2156/n/na54ad4869d60?sub_rt=share_pb",
+      "created_at": "2026-06-20",
+      "period_start": "2026-06-20",
+      "period_end": "2026-06-20",
+      "category": "経産省"
+    },
+    {
+      "id": 449,
+      "title": "2026年6月【財務省・経産省】ニッケル系ステンレス冷延鋼帯・鋼板の不公正な貿易慣行調査と物流パートナーシップ優良事業者表彰｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n19994113c26c?sub_rt=share_pb",
+      "created_at": "2026-06-20",
+      "period_start": "2026-06-20",
+      "period_end": "2026-06-20",
+      "category": "経産省"
+    },
+    {
+      "id": 448,
+      "title": "2026年6月【財務省関税局】ニッケル系ステンレス冷延鋼帯の不当廉売関税調査延長・仮決定｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n7e0e08feafcb?sub_rt=share_pb",
+      "created_at": "2026-06-20",
+      "period_start": "2026-06-19",
+      "period_end": "2026-06-19",
+      "category": "財務省"
+    },
+    {
+      "id": 447,
+      "title": "2026年6月【財務省】ファイナンス誌掲載記事10件の新規公開｜輸入実務関連情報の確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n512e90a65dad?sub_rt=share_pb",
+      "created_at": "2026-06-20",
+      "period_start": "2026-06-19",
+      "period_end": "2026-06-19",
+      "category": "財務省"
+    },
+    {
+      "id": 446,
+      "title": "2026年6月【e-Gov パブリックコメント】労働安全衛生法改正・農薬残留基準変更｜輸入食品・化学品の検査基準に影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n95ae3fd35ae2?sub_rt=share_pb",
+      "created_at": "2026-06-20",
+      "period_start": "2026-06-19",
+      "period_end": "2026-06-20",
+      "category": "食品"
+    },
+    {
+      "id": 445,
+      "title": "2026年6月【税関】知的財産侵害物品の差止申立て受理状況更新｜Apple意匠権追加保護と輸入検査強化への対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n96c104d11dff?sub_rt=share_pb",
+      "created_at": "2026-06-19",
+      "period_start": "2026-06-18",
+      "period_end": "2026-06-19",
+      "category": "税関"
+    },
+    {
+      "id": 444,
+      "title": "2026年6月【消費者庁】食品表示基準ページ更新・機能性表示食品届出データベース情報追加｜輸入食品表示対応の最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/n080bce93b026?sub_rt=share_pb",
+      "created_at": "2026-06-19",
+      "period_start": "2026-06-19",
+      "period_end": "2026-06-19",
+      "category": "食品"
+    },
+    {
+      "id": 443,
+      "title": "2026年6月【財務省】関税局・税関人事異動と海外調査報告｜オフショア勘定・証券投資統計の最新データ更新",
+      "note_url": "https://note.com/prime_ixia2156/n/n23935b1ea43f?sub_rt=share_pb",
+      "created_at": "2026-06-19",
+      "period_start": "2026-06-18",
+      "period_end": "2026-06-18",
+      "category": "税関"
+    },
+    {
+      "id": 442,
+      "title": "2026年6月【e-Gov パブリックコメント】ガス小売事業・自動車リサイクル制度・農薬評価書の大幅変更｜輸入実務への影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n28a980f6ff85?sub_rt=share_pb",
+      "created_at": "2026-06-19",
+      "period_start": "2026-06-18",
+      "period_end": "2026-06-19",
+      "category": "その他"
+    },
+    {
+      "id": 441,
+      "title": "2026年6月【経産省】リチウムイオン電池対策ポータル公開・企業買収指針パブコメ開始｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n6c5e023978fb?sub_rt=share_pb",
+      "created_at": "2026-06-19",
+      "period_start": "2026-06-18",
+      "period_end": "2026-06-19",
+      "category": "経産省"
+    },
+    {
+      "id": 440,
+      "title": "2026年6月【経産省】企業買収に関する指針（案）パブリックコメント募集｜10件の関連文書を一括公開",
+      "note_url": "https://note.com/prime_ixia2156/n/ne4a987945f72?sub_rt=share_pb",
+      "created_at": "2026-06-19",
+      "period_start": "2026-06-19",
+      "period_end": "2026-06-19",
+      "category": "経産省"
+    },
+    {
+      "id": 439,
+      "title": "2026年6月【厚労省・環境省・JETRO】輸入食品検査命令・クマ被害統計・通商ニュース更新｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n2ccd92b0cb5d?sub_rt=share_pb",
+      "created_at": "2026-06-18",
+      "period_start": "2026-06-17",
+      "period_end": "2026-06-18",
+      "category": "食品"
+    },
+    {
+      "id": 438,
+      "title": "2026年6月【経産省】輸出貿易管理令改正 ペルフルオロ化合物新規制・化学物質規制拡大｜輸出承認手続きの実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n8f4d823374ea?sub_rt=share_pb",
+      "created_at": "2026-06-18",
+      "period_start": "2026-06-17",
+      "period_end": "2026-06-17",
+      "category": "経産省"
+    },
+    {
+      "id": 437,
+      "title": "2026年6月【消費者庁】食品残留基準改正（農薬6品目）パブリックコメント受付開始｜輸入食品検査への影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n85c6410d048a?sub_rt=share_pb",
+      "created_at": "2026-06-18",
+      "period_start": "2026-06-17",
+      "period_end": "2026-06-18",
+      "category": "食品"
+    },
+    {
+      "id": 436,
+      "title": "2026年6月【財務省 関税局・神戸税関】貿易統計速報・通関手続きQ&A・採用情報の新規公開｜輸入実務への参考資料",
+      "note_url": "https://note.com/prime_ixia2156/n/n124a467f0653?sub_rt=share_pb",
+      "created_at": "2026-06-18",
+      "period_start": "2026-06-17",
+      "period_end": "2026-06-17",
+      "category": "税関"
+    },
+    {
+      "id": 435,
+      "title": "2026年6月【税関】EPA原産地規則・知的財産侵害物品差止申立て・輸入手続き関連の最新文書10件一括更新｜実務対応ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n6aba1863d417?sub_rt=share_pb",
+      "created_at": "2026-06-18",
+      "period_start": "2026-06-17",
+      "period_end": "2026-06-17",
+      "category": "税関"
+    },
+    {
+      "id": 433,
+      "title": "2026年6月【税関】EPA原産地規則・特恵関税手続き関連文書10件の新規公開｜輸入申告・NACCS対応の最新資料",
+      "note_url": "https://note.com/prime_ixia2156/n/n6aba1863d417?sub_rt=share_pb",
+      "created_at": "2026-06-18",
+      "period_start": "2026-06-17",
+      "period_end": "2026-06-17",
+      "category": "税関"
+    },
+    {
+      "id": 427,
+      "title": "2026年6月【厚労省・消費者庁・JETRO】輸入食品監視・強制労働ガイダンス・食品表示制度の最新動向｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n1b2d446f2dcc?sub_rt=share_pb",
+      "created_at": "2026-06-17",
+      "period_start": "2026-06-16",
+      "period_end": "2026-06-17",
+      "category": "食品"
+    },
+    {
+      "id": 426,
+      "title": "2026年6月【税関】GSP原産地証明書発給機関変更・外国為替相場公示・千葉税関支署通関部門移転｜輸入実務への影響と対応方法",
+      "note_url": "https://note.com/prime_ixia2156/n/n4ce387b7c452?sub_rt=share_pb",
+      "created_at": "2026-06-17",
+      "period_start": "2026-06-16",
+      "period_end": "2026-06-16",
+      "category": "税関"
+    },
+    {
+      "id": 425,
+      "title": "2026年6月【経産省】安全保障貿易管理・重要管理対象技術報告要件改正｜輸入実務への影響と確認事項",
+      "note_url": "https://note.com/prime_ixia2156/n/n03250703bde7?sub_rt=share_pb",
+      "created_at": "2026-06-17",
+      "period_start": "2026-06-16",
+      "period_end": "2026-06-17",
+      "category": "経産省"
+    },
+    {
+      "id": 423,
+      "title": "2026年6月【農林水産省】農林漁業基本方針改正パブリックコメント受付開始｜輸入農産物の原産地表示・通関手続きへの影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n0041d7762ae0?sub_rt=share_pb",
+      "created_at": "2026-06-17",
+      "period_start": "2026-06-16",
+      "period_end": "2026-06-17",
+      "category": "その他"
+    },
+    {
+      "id": 422,
+      "title": "2026年6月【税関・消費者庁】知的財産権侵害物品申立受理・輸入通関手続き変更・食品表示基準関連情報の最新動向｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n25b0463a807c?sub_rt=share_pb",
+      "created_at": "2026-06-16",
+      "period_start": "2026-06-15",
+      "period_end": "2026-06-16",
+      "category": "税関"
+    },
+    {
+      "id": 421,
+      "title": "【JETRO】2026年6月 米国IEEPA関税還付フェーズ2開始・ウズベキスタン市場価格調査・ビジネス短信最新更新｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nee7354522b1b?sub_rt=share_pb",
+      "created_at": "2026-06-16",
+      "period_start": "2026-06-15",
+      "period_end": "2026-06-15",
+      "category": "その他"
+    },
+    {
+      "id": 420,
+      "title": "2026年6月【経産省】ニュースリリース・経済制裁・安全保障貿易管理の最新情報｜輸入実務への影響と変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/nd81084e09388?sub_rt=share_pb",
+      "created_at": "2026-06-16",
+      "period_start": "2026-06-15",
+      "period_end": "2026-06-16",
+      "category": "経産省"
+    },
+    {
+      "id": 419,
+      "title": "2026年6月【財務省】法人税研究開発税制・医療費増加要因に関する最新研究論文2件公開｜輸入実務への参考情報",
+      "note_url": "https://note.com/prime_ixia2156/n/n59fa94926e9a?sub_rt=share_pb",
+      "created_at": "2026-06-16",
+      "period_start": "2026-06-15",
+      "period_end": "2026-06-15",
+      "category": "財務省"
+    },
+    {
+      "id": 418,
+      "title": "2026年6月【e-Gov パブリックコメント】電気通信役務安全基本方針・マンション管理法施行規則・林業育成就労規則の改正案が募集開始｜輸入実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n2f7db8d5468c?sub_rt=share_pb",
+      "created_at": "2026-06-16",
+      "period_start": "2026-06-15",
+      "period_end": "2026-06-16",
+      "category": "その他"
+    },
+    {
+      "id": 417,
+      "title": "2026年6月【e-Gov・海事プレス】ゼロエミ燃料普及後ずれ・環境省ネイチャーポジティブガイドライン・成長投資ガイダンス削除｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n412aa6de6f51?sub_rt=share_pb",
+      "created_at": "2026-06-15",
+      "period_start": "2026-06-15",
+      "period_end": "2026-06-15",
+      "category": "環境省"
+    },
+    {
+      "id": 416,
+      "title": "2026年6月【日本海事広報協会】改正経済安保法による造船・修繕海外進出支援スキーム新設｜輸入実務への影響と業界動向",
+      "note_url": "https://note.com/prime_ixia2156/n/n84f275eb36be?sub_rt=share_pb",
+      "created_at": "2026-06-14",
+      "period_start": "2026-06-14",
+      "period_end": "2026-06-14",
+      "category": "その他"
+    },
+    {
+      "id": 415,
+      "title": "2026年6月【厚労省】輸入食品監視指導計画・輸入停止措置一覧の更新｜輸入実務への影響と変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/nec8e60122fac?sub_rt=share_pb",
+      "created_at": "2026-06-14",
+      "period_start": "2026-06-12",
+      "period_end": "2026-06-13",
+      "category": "食品"
+    },
+    {
+      "id": 414,
+      "title": "2026年6月【経産省・財務省】輸出規制対象拡大・デジタルプラットフォーム規制指定・パブコメ期限短縮｜輸入実務への影響まとめ",
+      "note_url": "https://note.com/prime_ixia2156/n/n4c8d14f54e2a?sub_rt=share_pb",
+      "created_at": "2026-06-14",
+      "period_start": "2026-06-12",
+      "period_end": "2026-06-13",
+      "category": "経産省"
+    },
+    {
+      "id": 413,
+      "title": "2026年6月【税関】関税帳簿書類電子保存・EPA関税認定アドバイザー関連資料 7件の新規公開｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nda26077b7cf3?sub_rt=share_pb",
+      "created_at": "2026-06-14",
+      "period_start": "2026-06-12",
+      "period_end": "2026-06-12",
+      "category": "税関"
+    },
+    {
+      "id": 412,
+      "title": "2026年6月【消費者庁】食品表示基準・機能性表示食品制度の最新情報更新｜輸入食品表示対応の実務ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/na8852cd8f9b9?sub_rt=share_pb",
+      "created_at": "2026-06-14",
+      "period_start": "2026-06-13",
+      "period_end": "2026-06-13",
+      "category": "食品"
+    },
+    {
+      "id": 411,
+      "title": "2026年6月【JETRO】中国の旋盤・ドローン輸出申告厳格化ほか最新ビジネス短信｜日本企業の輸出規制対応に影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n8fe379b7aefa?sub_rt=share_pb",
+      "created_at": "2026-06-14",
+      "period_start": "2026-06-12",
+      "period_end": "2026-06-12",
+      "category": "その他"
+    },
+    {
+      "id": 410,
+      "title": "2026年6月【JETRO】米国関税政策10件の最新レポート公開｜トランプ政権・301条調査・日米合意の詳細解説",
+      "note_url": "https://note.com/prime_ixia2156/n/n9be9d83e0251?sub_rt=share_pb",
+      "created_at": "2026-06-14",
+      "period_start": "2026-06-12",
+      "period_end": "2026-06-12",
+      "category": "その他"
+    },
+    {
+      "id": 409,
+      "title": "2026年6月【税関】知的財産侵害物品の輸入差止申立て受理前公表一覧 グッチ商標追加・複数品目の新規案件掲載｜輸入通関への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/ndec72f03ae25?sub_rt=share_pb",
+      "created_at": "2026-06-12",
+      "period_start": "2026-06-11",
+      "period_end": "2026-06-12",
+      "category": "税関"
+    },
+    {
+      "id": 408,
+      "title": "2026年6月【e-Gov・財務省】パブリックコメント新規募集・証券投資統計更新・法人企業景気予測調査｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nc39f21164a11?sub_rt=share_pb",
+      "created_at": "2026-06-12",
+      "period_start": "2026-06-11",
+      "period_end": "2026-06-12",
+      "category": "財務省"
+    },
+    {
+      "id": 407,
+      "title": "2026年6月【日本商工会議所・経済産業省】特定原産地証明書・貿易円滑化要望・省エネ補助金リーフレット新規公開｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nd2d9f1a9f596?sub_rt=share_pb",
+      "created_at": "2026-06-12",
+      "period_start": "2026-06-12",
+      "period_end": "2026-06-12",
+      "category": "経産省"
+    },
+    {
+      "id": 406,
+      "title": "2026年6月【経済産業省】セーフティネット保証5号・クリティカルマテリアル会合・POWERR Asia FAST ウィンドウ｜輸入企業の資金調達と資源調達戦略への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n343dc3011c0d?sub_rt=share_pb",
+      "created_at": "2026-06-12",
+      "period_start": "2026-06-11",
+      "period_end": "2026-06-12",
+      "category": "その他"
+    },
+    {
+      "id": 405,
+      "title": "2026年6月【税関・厚労省】知的財産侵害物品差止申立て・輸入食品監視情報の最新更新｜輸入実務への影響と手続き変更",
+      "note_url": "https://note.com/prime_ixia2156/n/n4fb3ac381d32?sub_rt=share_pb",
+      "created_at": "2026-06-11",
+      "period_start": "2026-06-10",
+      "period_end": "2026-06-11",
+      "category": "税関"
+    },
+    {
+      "id": 404,
+      "title": "商工会議所 更新まとめ",
+      "note_url": "https://note.com/prime_ixia2156/n/n398e45194baa?sub_rt=share_pb",
+      "created_at": "2026-06-11",
+      "period_start": "2026-06-11",
+      "period_end": "2026-06-11",
+      "category": "その他"
+    },
+    {
+      "id": 403,
+      "title": "2026年6月【経産省】制裁措置・輸入承認対象貨物ページ構成変更｜ナビゲーション簡素化と実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nd81295bc064a?sub_rt=share_pb",
+      "created_at": "2026-06-11",
+      "period_start": "2026-06-10",
+      "period_end": "2026-06-11",
+      "category": "経産省"
+    },
+    {
+      "id": 402,
+      "title": "【財務省】2026年6月10日 人事異動発令｜輸入実務への直接的影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/nd9697ee69528?sub_rt=share_pb",
+      "created_at": "2026-06-11",
+      "period_start": "2026-06-10",
+      "period_end": "2026-06-10",
+      "category": "財務省"
+    },
+    {
+      "id": 401,
+      "title": "2026年6月【消費者庁・経産省】農薬残留基準改正・食品輸入検査基準の変更｜e-Gov パブリックコメント受付開始と財務省関税審議会資料10件",
+      "note_url": "https://note.com/prime_ixia2156/n/n20b821d45c77?sub_rt=share_pb",
+      "created_at": "2026-06-11",
+      "period_start": "2026-06-10",
+      "period_end": "2026-06-11",
+      "category": "食品"
+    },
+    {
+      "id": 400,
+      "title": "【厚労省】2026年6月 戦没者遺骨統計データ更新（令和8年4月末現在）｜輸入実務への影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/n97aed4e2991c?sub_rt=share_pb",
+      "created_at": "2026-06-10",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-09",
+      "category": "食品"
+    },
+    {
+      "id": 399,
+      "title": "2026年6月【経産省】不当廉売関税調査（鋼板・鋼帯）削除・ワシントン条約輸入手続き通達変更｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nd4bfe13f36f0?sub_rt=share_pb",
+      "created_at": "2026-06-10",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-10",
+      "category": "経産省"
+    },
+    {
+      "id": 398,
+      "title": "環境省 更新まとめ",
+      "note_url": "https://note.com/prime_ixia2156/n/ncd57f679e3a8?sub_rt=share_pb",
+      "created_at": "2026-06-10",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-09",
+      "category": "環境省"
+    },
+    {
+      "id": 397,
+      "title": "2026年6月【税関】知的財産侵害品差止申立・外国為替相場・輸出入統計品目コード更新｜輸入実務への影響と変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n904fc1340fa0?sub_rt=share_pb",
+      "created_at": "2026-06-10",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-09",
+      "category": "税関"
+    },
+    {
+      "id": 396,
+      "title": "2026年6月【税関・厚労省・JETRO】知的財産侵害物品差止強化・メキシコ電子申請延期・輸入食品監視リスト更新｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n56945252027d?sub_rt=share_pb",
+      "created_at": "2026-06-09",
+      "period_start": "2026-06-08",
+      "period_end": "2026-06-09",
+      "category": "税関"
+    },
+    {
+      "id": 395,
+      "title": "2026年6月【経産省】育成就労制度・工業製品製造業分野の対象産業分類が大幅削除｜輸入実務と外国人受入れへの影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nb787d9e8dacf?sub_rt=share_pb",
+      "created_at": "2026-06-09",
+      "period_start": "2026-06-08",
+      "period_end": "2026-06-09",
+      "category": "経産省"
+    },
+    {
+      "id": 394,
+      "title": "2026年6月【消費者庁】食品表示基準・栄養機能食品検討会開催｜輸入食品の表示規制への影響と対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n5a5b93867fda?sub_rt=share_pb",
+      "created_at": "2026-06-09",
+      "period_start": "2026-06-09",
+      "period_end": "2026-06-09",
+      "category": "食品"
+    },
+    {
+      "id": 393,
+      "title": "2026年6月【財務省】対外・対内証券投資統計データ更新｜輸入実務への直接影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/nb098634a2ad9?sub_rt=share_pb",
+      "created_at": "2026-06-09",
+      "period_start": "2026-06-08",
+      "period_end": "2026-06-08",
+      "category": "財務省"
+    },
+    {
+      "id": 391,
+      "title": "2026年6月【経済産業省】水産物輸入割当制度改正案パブリックコメント受付開始｜こんぶ・あおのり・あじの輸入枠変更と通関実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n9f9565a728f9?sub_rt=share_pb",
+      "created_at": "2026-06-09",
+      "period_start": "2026-06-08",
+      "period_end": "2026-06-09",
+      "category": "その他"
+    },
+    {
+      "id": 390,
+      "title": "2026年6月【e-Gov】パブリックコメント案件の追加・削除｜環境省「人とペットの災害対策ガイドライン」と厚生労働省労働安全衛生法改正省令の実務影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n68571d4fa1f8?sub_rt=share_pb",
+      "created_at": "2026-06-08",
+      "period_start": "2026-06-08",
+      "period_end": "2026-06-08",
+      "category": "環境省"
+    },
+    {
+      "id": 389,
+      "title": "2026年6月【海事業界ニュース】記事一覧の編成変更｜輸入実務への直接的影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/n43efb2f953c2?sub_rt=share_pb",
+      "created_at": "2026-06-07",
+      "period_start": "2026-06-07",
+      "period_end": "2026-06-07",
+      "category": "その他"
+    },
+    {
+      "id": 388,
+      "title": "2026年6月【JETRO】米国232条関税修正・301条調査完了・IEPA関税還付判決など輸入実務への影響｜日本含む対象国の関税レート変更",
+      "note_url": "https://note.com/prime_ixia2156/n/n2b8de4205e04?sub_rt=share_pb",
+      "created_at": "2026-06-06",
+      "period_start": "2026-06-05",
+      "period_end": "2026-06-05",
+      "category": "その他"
+    },
+    {
+      "id": 387,
+      "title": "2026年6月【消費者庁・厚労省・経産省】輸入食品表示基準・HACCP衛生管理・水産物輸入割当制度の最新動向｜輸入実務への影響と対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/ndf2c2527538a?sub_rt=share_pb",
+      "created_at": "2026-06-06",
+      "period_start": "2026-06-05",
+      "period_end": "2026-06-06",
+      "category": "食品"
+    },
+    {
+      "id": 386,
+      "title": "2026年6月【環境省】ワシントン条約（CITES）輸入規制関連文書5件公開｜絶滅危惧種輸入手続きの最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/nd57859210dd7?sub_rt=share_pb",
+      "created_at": "2026-06-06",
+      "period_start": "2026-06-05",
+      "period_end": "2026-06-05",
+      "category": "環境省"
+    },
+    {
+      "id": 385,
+      "title": "2026年6月【函館税関】紋別・留萌出張所の勤務体制変更（令和8年7月1日）｜NACCS利用推奨と対面対応への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n0e8897fb1435?sub_rt=share_pb",
+      "created_at": "2026-06-06",
+      "period_start": "2026-06-06",
+      "period_end": "2026-06-06",
+      "category": "税関"
+    },
+    {
+      "id": 384,
+      "title": "2026年6月【経産省・外務省・財務省】GHS爆発物区分追加・ナフサ供給戦略修正・スーダン経済制裁最新情報｜輸入実務への影響と対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n7c326de9a6bb?sub_rt=share_pb",
+      "created_at": "2026-06-06",
+      "period_start": "2026-06-05",
+      "period_end": "2026-06-06",
+      "category": "経産省"
+    },
+    {
+      "id": 383,
+      "title": "2026年6月【税関】知的財産侵害物品の輸入差止申立て受理状況更新｜商標権・意匠権・特許権の最新リスト",
+      "note_url": "https://note.com/prime_ixia2156/n/n199163d505f7?sub_rt=share_pb",
+      "created_at": "2026-06-05",
+      "period_start": "2026-06-04",
+      "period_end": "2026-06-05",
+      "category": "税関"
+    },
+    {
+      "id": 382,
+      "title": "2026年6月【厚生労働省】麻薬・向精神薬指定政令改正パブコメ受付開始｜輸入医薬品・化学物質の規制変更に注意",
+      "note_url": "https://note.com/prime_ixia2156/n/nddbe646ac185?sub_rt=share_pb",
+      "created_at": "2026-06-05",
+      "period_start": "2026-06-04",
+      "period_end": "2026-06-05",
+      "category": "その他"
+    },
+    {
+      "id": 381,
+      "title": "2026年6月【経産省・外務省・法務省】スタートアップエコシステム研究・日伊戦略パートナーシップ・育成就労制度の最新文書公開｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nb6a3d72df946?sub_rt=share_pb",
+      "created_at": "2026-06-05",
+      "period_start": "2026-06-04",
+      "period_end": "2026-06-05",
+      "category": "経産省"
+    },
+    {
+      "id": 380,
+      "title": "2026年6月【消費者庁】食品表示基準・機能性表示食品制度の最新情報｜輸入食品企業の届出確認スケジュール変更",
+      "note_url": "https://note.com/prime_ixia2156/n/na1a3c74ae2c4?sub_rt=share_pb",
+      "created_at": "2026-06-05",
+      "period_start": "2026-06-05",
+      "period_end": "2026-06-05",
+      "category": "食品"
+    },
+    {
+      "id": 379,
+      "title": "2026年6月【JETRO・厚労省・海事広報】強制労働産品301条関税・医薬品輸入手続き・港湾リスク情報の最新動向｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n6c8acabcd12c?sub_rt=share_pb",
+      "created_at": "2026-06-04",
+      "period_start": "2026-06-03",
+      "period_end": "2026-06-04",
+      "category": "食品"
+    },
+    {
+      "id": 378,
+      "title": "2026年6月【経産省】特定技能外国人材の受入れ対象産業を大幅拡大｜工業製品製造業で1号49→76分類・2号19→46分類に変更",
+      "note_url": "https://note.com/prime_ixia2156/n/n0b615b920604?sub_rt=share_pb",
+      "created_at": "2026-06-04",
+      "period_start": "2026-06-03",
+      "period_end": "2026-06-04",
+      "category": "経産省"
+    },
+    {
+      "id": 377,
+      "title": "2026年6月【消費者庁】食品表示基準 輸入食品の英語版ラベル表記ルール厳格化・産地表示要件の最新ガイダンス",
+      "note_url": "https://note.com/prime_ixia2156/n/nb63d94ec16d6?sub_rt=share_pb",
+      "created_at": "2026-06-04",
+      "period_start": "2026-06-04",
+      "period_end": "2026-06-04",
+      "category": "食品"
+    },
+    {
+      "id": 376,
+      "title": "2026年6月【財務省】令和8年度補正予算関連資料4件公開｜輸入実務への直接影響は限定的",
+      "note_url": "https://note.com/prime_ixia2156/n/n65e973cb9bd4?sub_rt=share_pb",
+      "created_at": "2026-06-04",
+      "period_start": "2026-06-03",
+      "period_end": "2026-06-03",
+      "category": "財務省"
+    },
+    {
+      "id": 375,
+      "title": "2026年6月【e-Gov パブリックコメント】原子力規制委員会・経産省の新規募集案件｜輸入実務への影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n3f2c5649e1df?sub_rt=share_pb",
+      "created_at": "2026-06-04",
+      "period_start": "2026-06-03",
+      "period_end": "2026-06-04",
+      "category": "経産省"
+    },
+    {
+      "id": 350,
+      "title": "2026年6月【消費者庁・JETRO・海事プレス】機能性表示食品届出更新・通商動向・海運業界ニュース｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nd9c8dacb5fce?sub_rt=share_pb",
+      "created_at": "2026-06-03",
+      "period_start": "2026-06-02",
+      "period_end": "2026-06-03",
+      "category": "食品"
+    },
+    {
+      "id": 349,
+      "title": "2026年6月【農林水産省】遺伝子組換え飼料安全性確認申請・農協法改正パブリックコメント募集｜輸入飼料業者の対応期限と実務影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nef29e1602a53?sub_rt=share_pb",
+      "created_at": "2026-06-03",
+      "period_start": "2026-06-02",
+      "period_end": "2026-06-03",
+      "category": "その他"
+    },
+    {
+      "id": 348,
+      "title": "2026年6月【税関】知的財産侵害物品輸入差止申立て・外国為替相場・刑法用語統一｜輸入実務への影響と変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/nec944af57619?sub_rt=share_pb",
+      "created_at": "2026-06-03",
+      "period_start": "2026-06-02",
+      "period_end": "2026-06-02",
+      "category": "税関"
+    },
+    {
+      "id": 347,
+      "title": "2026年6月【経産省】蓄電池・電源産業戦略に改訂｜G7デジタル・技術大臣会合資料公開｜輸入規制・サプライチェーン対応への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nc77a4074252a?sub_rt=share_pb",
+      "created_at": "2026-06-03",
+      "period_start": "2026-06-03",
+      "period_end": "2026-06-03",
+      "category": "経産省"
+    },
+    {
+      "id": 346,
+      "title": "2026年6月【税関・厚労省・消費者庁】認定通関業者一覧更新・輸入食品監視情報・AEO制度統計｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n903eebcc0a11?sub_rt=share_pb",
+      "created_at": "2026-06-02",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-02",
+      "category": "税関"
+    },
+    {
+      "id": 344,
+      "title": "2026年6月【経産省】熱延・冷延鋼帯及び鋼板の不当廉売関税調査開始｜韓国・中国・台湾産品への影響と輸入実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n77d13bb7fa69?sub_rt=share_pb",
+      "created_at": "2026-06-02",
+      "period_start": "2026-06-02",
+      "period_end": "2026-06-02",
+      "category": "経産省"
+    },
+    {
+      "id": 343,
+      "title": "2026年6月【財務省 関税局】不当廉売関税調査開始・熱延鋼帯・冷延鋼帯・関税定率法改正｜鋼材輸入業者への実務影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n74494a48aeb7?sub_rt=share_pb",
+      "created_at": "2026-06-02",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "財務省"
+    },
+    {
+      "id": 342,
+      "title": "2026年6月【e-Gov パブリックコメント】労働・環境保全・共生社会政策の新規案件追加と医薬品・放送法関連案件の削除｜輸入実務への影響と対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nd594ce90f5f9?sub_rt=share_pb",
+      "created_at": "2026-06-02",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-02",
+      "category": "その他"
+    },
+    {
+      "id": 341,
+      "title": "2026年6月【農林水産省・厚生労働省】農薬取締法施行規則・医薬品指定改正パブコメ開始｜輸入申請手続きへの影響と締切対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n477e72febff7?sub_rt=share_pb",
+      "created_at": "2026-06-01",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "その他"
+    },
+    {
+      "id": 340,
+      "title": "2026年5月【税関】AEO制度・輸入通関様式6件の法令条項・表記統一更新｜関税法条項変更と保税業務規則への用語統一が実務に影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n729eabab30d8?sub_rt=share_pb",
+      "created_at": "2026-06-01",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "税関"
+    },
+    {
+      "id": 339,
+      "title": "2026年5月【税関】AEO制度関連通達の関税法条文参照修正｜法第34条→法第33条など複数条項の統一と手続き表現の厳密化",
+      "note_url": "https://note.com/prime_ixia2156/n/nf3f576b345d6?sub_rt=share_pb",
+      "created_at": "2026-06-01",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "税関"
+    },
+    {
+      "id": 338,
+      "title": "2026年5月【税関】関税法基本通達・AEO制度関連の大幅改正｜参照条文番号体系の統一と実務手続きの簡素化",
+      "note_url": "https://note.com/prime_ixia2156/n/n0f6863126c81?sub_rt=share_pb",
+      "created_at": "2026-06-01",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "税関"
+    },
+    {
+      "id": 337,
+      "title": "2026年6月【農林水産省・厚生労働省】農薬取締法施行規則・医薬品指定改正パブコメ開始｜輸入申請手続きへの影響と締切対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n087d786e125e?sub_rt=share_pb",
+      "created_at": "2026-06-01",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "その他"
+    },
+    {
+      "id": 336,
+      "title": "2026年5月【税関】AEO制度・輸入通関様式6件の法令条項・表記統一更新｜関税法条項変更と保税業務規則への用語統一が実務に影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n322e021620e5?sub_rt=share_pb",
+      "created_at": "2026-06-01",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "税関"
+    },
+    {
+      "id": 335,
+      "title": "2026年5月【税関】AEO制度関連通達の関税法条文参照修正｜法第34条→法第33条、法第41条の３→法第41条の５への変更と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n6c4f7a39d9d6?sub_rt=share_pb",
+      "created_at": "2026-06-01",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "税関"
+    },
+    {
+      "id": 334,
+      "title": "2026年5月【税関】関税法基本通達・AEO制度関連の大幅改正｜参照条文番号体系の統一と実務手続きの簡素化",
+      "note_url": "https://note.com/prime_ixia2156/n/nfa73f04b002a?sub_rt=share_pb",
+      "created_at": "2026-06-01",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-01",
+      "category": "税関"
+    },
+    {
+      "id": 333,
+      "title": "2026年5月【海事業界ニュースサイト】掲載記事順序の大幅変更｜輸入実務への直接的影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/nefefcb175305?sub_rt=share_pb",
+      "created_at": "2026-05-31",
+      "period_start": "2026-05-31",
+      "period_end": "2026-05-31",
+      "category": "その他"
+    },
+    {
+      "id": 330,
+      "title": "2026年5月【経産省・財務省・JETRO】ワシントン条約輸出許可手続き改正・米国台湾関税引き下げ・パブリックコメント期限延長｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/ne1906dfc2373?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-29",
+      "period_end": "2026-05-30",
+      "category": "経産省"
+    },
+    {
+      "id": 329,
+      "title": "2026年5月【厚労省】医薬品・化粧品・輸入食品監視の最新通知5件｜輸入手続きと規制リスト更新",
+      "note_url": "https://note.com/prime_ixia2156/n/n40535038b9a1?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-29",
+      "period_end": "2026-05-30",
+      "category": "食品"
+    },
+    {
+      "id": 328,
+      "title": "2026年5月【税関】プラットフォーム等コード申請・AEO認定業者リスト・知的財産侵害物品差止申立の最新更新｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n5ed8c4d9da44?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-29",
+      "period_end": "2026-05-30",
+      "category": "税関"
+    },
+    {
+      "id": 327,
+      "title": "2026年5月【消費者庁】食品表示基準 保健機能食品説明会・原料原産地表示調査報告書公開｜輸入食品表示実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n8c2b109ef4b0?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-30",
+      "period_end": "2026-05-30",
+      "category": "食品"
+    },
+    {
+      "id": 326,
+      "title": "2026年5月【消費者庁】食品表示基準・保健機能食品制度の最新説明会資料10件公開｜輸入食品表示対応の実務ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n82d5359652d3?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-30",
+      "period_end": "2026-05-30",
+      "category": "食品"
+    },
+    {
+      "id": 325,
+      "title": "2025年3月・2024年12月【消費者庁】食品表示基準改正・機能性表示食品制度説明会資料10件公開｜輸入食品の表示要件と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n10b2c3e9d66e?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-30",
+      "period_end": "2026-05-30",
+      "category": "食品"
+    },
+    {
+      "id": 324,
+      "title": "2024年10月～2025年1月【消費者庁】食品表示基準改正・機能性表示食品制度見直し｜輸入食品の表示要件と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/nccafd8862008?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-30",
+      "period_end": "2026-05-30",
+      "category": "食品"
+    },
+    {
+      "id": 323,
+      "title": "2024年10月【消費者庁】食品表示基準改正・機能性表示食品・特別用途食品の新規制度｜輸入食品表示対応ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n97d9079ce193?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-30",
+      "period_end": "2026-05-30",
+      "category": "食品"
+    },
+    {
+      "id": 322,
+      "title": "2024年10月【消費者庁】機能性表示食品制度見直し・食品表示基準改正｜輸入食品の健康被害情報報告義務化と表示要件の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/na71e64b2bdae?sub_rt=share_pb",
+      "created_at": "2026-05-30",
+      "period_start": "2026-05-30",
+      "period_end": "2026-05-30",
+      "category": "食品"
+    },
+    {
+      "id": 321,
+      "title": "2026年5月【JETRO・日本海事広報協会】ビジネスニュース・海事イベント日程更新｜輸入実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nff65e5624c30?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-29",
+      "category": "その他"
+    },
+    {
+      "id": 320,
+      "title": "2026年5月【経済産業省】化学物質審査法施行令改正・プレスリリース更新｜輸入実務への影響と新規文書",
+      "note_url": "https://note.com/prime_ixia2156/n/n37fd76a57861?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-29",
+      "period_end": "2026-05-29",
+      "category": "その他"
+    },
+    {
+      "id": 319,
+      "title": "2026年5月【税関】知的財産侵害物品の輸入差止申立て受理前公表一覧が更新｜カードケース・ぬいぐるみ新規追加と申立取り下げ",
+      "note_url": "https://note.com/prime_ixia2156/n/n08a1dd2688b6?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "税関"
+    },
+    {
+      "id": 318,
+      "title": "2026年5月【税関】知的財産侵害物品の輸出差止申立て新規受理｜リコー製トナーカートリッジが対象に",
+      "note_url": "https://note.com/prime_ixia2156/n/n08419c2b475b?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "税関"
+    },
+    {
+      "id": 317,
+      "title": "2026年5月【財務省】対外・対内証券投資統計の週次データ更新｜輸入実務への影響確認ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n5b77a9e9d05c?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 316,
+      "title": "2026年5月【財務省 財務総合政策研究所】特別報告書シリーズ10件の新規公開｜輸入実務関連性の確認と対応ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n5f56dd21f768?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 315,
+      "title": "2026年5月【財務省 財務総合政策研究所】関税・貿易政策関連資料10件の新規公開｜輸入実務者向け最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/nf25581d97362?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 314,
+      "title": "【財務省】2024年2月～9月 財務総合政策研究所PRI Open Campus連載記事・研究会報告10件 初回検知｜輸入実務への直接影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/nbd1bee08cede?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 313,
+      "title": "2023年5月～2024年2月【財務省 財務総合政策研究所】関税・通関関連リサーチペーパー10件の初回検知｜輸入実務への影響確認ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n02380854a139?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 312,
+      "title": "2026年5月【財務省 財務総合政策研究所】PRI Open Campus・ファイナンス掲載記事10件の初回検知｜輸入実務関連性の確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nc6ddd6872927?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 311,
+      "title": "【財務省 財務総合政策研究所】2022年3月～8月 特別研究報告書10件 初回検知｜輸入実務への直接的影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/ne5ae08ab2657?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 310,
+      "title": "【財務省】2021年6月～2022年2月 財務総合政策研究所の研究報告書10件を初めて検知｜輸入実務への直接影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/n4e342a64ed85?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 309,
+      "title": "【財務省 財務総合政策研究所】2026年5月 金融市場分析レポート10件初回検知｜輸入実務への直接的影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/n8b3aba9ee88e?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 308,
+      "title": "【財務省】2026年5月 関税局最新情報・報道発表 初回検知10件｜輸入実務への直接影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/n7665714b1ed6?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 307,
+      "title": "2026年5月【財務省関税局】検知文書10件の内容確認結果｜輸入実務への影響判定",
+      "note_url": "https://note.com/prime_ixia2156/n/n5d84d9035461?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 306,
+      "title": "2026年5月【財務省】関税局最新情報・報道発表ページ 初回検知10件の文書公開状況｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nb1fea71a64a0?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 305,
+      "title": "2026年5月【財務省】関税局サイト検知情報｜WARPアーカイブ・金融研究論文の確認と輸入実務への影響判定",
+      "note_url": "https://note.com/prime_ixia2156/n/n3957c87be1cc?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "財務省"
+    },
+    {
+      "id": 304,
+      "title": "2026年5月【e-Gov パブリックコメント】国債・陸運・国税関連の新規案件追加と厚生労働省・金融庁案件の削除｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nc7c3318916ac?sub_rt=share_pb",
+      "created_at": "2026-05-29",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-29",
+      "category": "税関"
+    },
+    {
+      "id": 303,
+      "title": "2026年5月【厚労省・経産省・環境省】輸入食品検査命令・ワシントン条約・パブリックコメント最新情報｜輸入実務への影響と手続き変更",
+      "note_url": "https://note.com/prime_ixia2156/n/naf150a4e2a98?sub_rt=share_pb",
+      "created_at": "2026-05-28",
+      "period_start": "2026-05-27",
+      "period_end": "2026-05-28",
+      "category": "食品"
+    },
+    {
+      "id": 302,
+      "title": "2026年5月【税関】AEO制度・知的財産権侵害品申立て・相互承認マニュアル更新｜輸入実務への影響と変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n2333d5ed5ed8?sub_rt=share_pb",
+      "created_at": "2026-05-28",
+      "period_start": "2026-05-27",
+      "period_end": "2026-05-27",
+      "category": "税関"
+    },
+    {
+      "id": 301,
+      "title": "2026年5月【消費者庁】特別用途食品表示許可制度の最新情報公開｜輸入食品の表示基準への影響と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/nb7999260cd75?sub_rt=share_pb",
+      "created_at": "2026-05-28",
+      "period_start": "2026-05-28",
+      "period_end": "2026-05-28",
+      "category": "食品"
+    },
+    {
+      "id": 288,
+      "title": "2026年5月【税関・経産省・消費者庁】知的財産侵害物品・外国為替相場・予備費予算の最新情報｜輸入実務への影響と確認事項",
+      "note_url": "https://note.com/prime_ixia2156/n/nc627714849e0?sub_rt=share_pb",
+      "created_at": "2026-05-27",
+      "period_start": "2026-05-26",
+      "period_end": "2026-05-27",
+      "category": "税関"
+    },
+    {
+      "id": 287,
+      "title": "2026年5月【厚労省】輸入食品監視指導計画・ポーランド/ベルギー産牛肉輸入条件変更・インド産トウモロコシ検査命令｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n96cde3abc391?sub_rt=share_pb",
+      "created_at": "2026-05-27",
+      "period_start": "2026-05-26",
+      "period_end": "2026-05-27",
+      "category": "食品"
+    },
+    {
+      "id": 286,
+      "title": "2026年5月【財務省】広報誌「ファイナンス」令和8年版公開｜関税・貿易実務の最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/n31a41a8e8396?sub_rt=share_pb",
+      "created_at": "2026-05-27",
+      "period_start": "2026-05-26",
+      "period_end": "2026-05-26",
+      "category": "財務省"
+    },
+    {
+      "id": 285,
+      "title": "2026年5月【財務省】ファイナンス誌掲載記事10件一括公開｜輸入実務関連情報の確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n9235a1416355?sub_rt=share_pb",
+      "created_at": "2026-05-27",
+      "period_start": "2026-05-26",
+      "period_end": "2026-05-26",
+      "category": "財務省"
+    },
+    {
+      "id": 284,
+      "title": "2026年5月【財務省】広報誌「ファイナンス」関税・通関関連記事の初回検知｜輸入実務への影響確認ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n099be6da34f4?sub_rt=share_pb",
+      "created_at": "2026-05-27",
+      "period_start": "2026-05-26",
+      "period_end": "2026-05-26",
+      "category": "財務省"
+    },
+    {
+      "id": 283,
+      "title": "2026年5月【経済産業省・e-Gov】CITES（ワシントン条約）野生動植物輸出許可申請手続き新規パブコメ開始｜輸入実務への影響と締切日",
+      "note_url": "https://note.com/prime_ixia2156/n/n764e68502366?sub_rt=share_pb",
+      "created_at": "2026-05-27",
+      "period_start": "2026-05-26",
+      "period_end": "2026-05-27",
+      "category": "環境省"
+    },
+    {
+      "id": 282,
+      "title": "2026年5月【日本商工会議所】特定原産地証明書制度の最新情報｜輸入実務における原産地証明の実務ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n29642ddd93c7?sub_rt=share_pb",
+      "created_at": "2026-05-26",
+      "period_start": "2026-05-25",
+      "period_end": "2026-05-25",
+      "category": "その他"
+    },
+    {
+      "id": 281,
+      "title": "2026年5月【日本商工会議所】特定原産地証明書制度の最新情報｜輸入実務向け広報資料",
+      "note_url": "https://note.com/prime_ixia2156/n/n668a145a8265?sub_rt=share_pb",
+      "created_at": "2026-05-26",
+      "period_start": "2026-05-25",
+      "period_end": "2026-05-25",
+      "category": "その他"
+    },
+    {
+      "id": 280,
+      "title": "2026年5月【厚生労働省】医薬品成分リスト改正パブコメ開始・経産省エネルギー協力強化・e-Gov規制動向まとめ｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n61ad32494cc3?sub_rt=share_pb",
+      "created_at": "2026-05-26",
+      "period_start": "2026-05-25",
+      "period_end": "2026-05-26",
+      "category": "経産省"
+    },
+    {
+      "id": 279,
+      "title": "2026年5月【環境省】ワシントン条約（CITES）輸入規制・野鳥監視重点区域解除予定日延期｜輸入実務への影響と変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n118dad90eb24?sub_rt=share_pb",
+      "created_at": "2026-05-26",
+      "period_start": "2026-05-25",
+      "period_end": "2026-05-25",
+      "category": "環境省"
+    },
+    {
+      "id": 278,
+      "title": "2026年5月【消費者庁】食品安全・コーデックス関連資料4件の新規公開｜輸入食品表示・残留農薬基準への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/ncf3518cd816e?sub_rt=share_pb",
+      "created_at": "2026-05-26",
+      "period_start": "2026-05-26",
+      "period_end": "2026-05-26",
+      "category": "食品"
+    },
+    {
+      "id": 277,
+      "title": "2026年5月【e-Gov】家畜伝染病予防法施行規則改正・パブリックコメント受付開始｜動物・畜産物輸入規制への影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n8c5b559be7f3?sub_rt=share_pb",
+      "created_at": "2026-05-25",
+      "period_start": "2026-05-25",
+      "period_end": "2026-05-25",
+      "category": "その他"
+    },
+    {
+      "id": 276,
+      "title": "2026年5月【財務省・日本海事広報協会】国際収支統計・ホルムズ通峡封鎖対応・LNG燃料船建造の最新動向｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n76064d22f036?sub_rt=share_pb",
+      "created_at": "2026-05-24",
+      "period_start": "2026-05-23",
+      "period_end": "2026-05-24",
+      "category": "財務省"
+    },
+    {
+      "id": 275,
+      "title": "2026年5月【経産省】APEC関連文書・中国出張ニュース公開｜輸入実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nf092714824fe?sub_rt=share_pb",
+      "created_at": "2026-05-24",
+      "period_start": "2026-05-24",
+      "period_end": "2026-05-24",
+      "category": "経産省"
+    },
+    {
+      "id": 274,
+      "title": "2026年5月【輸入食品・海事・通商】消費者庁食品表示基準・環境省野鳥監視・JETRO通商動向の最新情報｜輸入実務への影響と変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n499df6bff2d3?sub_rt=share_pb",
+      "created_at": "2026-05-23",
+      "period_start": "2026-05-22",
+      "period_end": "2026-05-23",
+      "category": "食品"
+    },
+    {
+      "id": 273,
+      "title": "2026年5月【税関】高圧ガス輸入申告様式改正・医薬品原薬の知的財産権差止申立追加｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n7d67ed276b61?sub_rt=share_pb",
+      "created_at": "2026-05-23",
+      "period_start": "2026-05-22",
+      "period_end": "2026-05-22",
+      "category": "税関"
+    },
+    {
+      "id": 272,
+      "title": "2026年5月【総務省】電波法関係手数料令・無線設備認証基準改正｜輸入電子機器の手続き変更と受付期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n25fac850ba47?sub_rt=share_pb",
+      "created_at": "2026-05-23",
+      "period_start": "2026-05-22",
+      "period_end": "2026-05-23",
+      "category": "その他"
+    },
+    {
+      "id": 271,
+      "title": "2026年5月【経産省】家庭用給湯器の省エネ・非化石エネルギー転換制度報告書公表｜輸入実務への影響と制度詳細確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n095791b7ff73?sub_rt=share_pb",
+      "created_at": "2026-05-23",
+      "period_start": "2026-05-23",
+      "period_end": "2026-05-23",
+      "category": "経産省"
+    },
+    {
+      "id": 270,
+      "title": "2026年5月【厚労省】労働局助成金センター施設移転・連絡先変更｜輸入企業の助成金申請手続きへの影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nbdc7fd4f0f45?sub_rt=share_pb",
+      "created_at": "2026-05-22",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-22",
+      "category": "食品"
+    },
+    {
+      "id": 269,
+      "title": "2026年5月【消費者庁】食品表示基準ページ更新｜令和7年度消費者意向調査報告書公開と輸入食品表示対応への影響",
+      "note_url": "食品添加物規格基準改正（受付締切6月22日）/オフショア勘定・証券投資統計の月次更新/輸入食品の適合性確認業務に注意 #輸入規制 #消費者庁 #食品輸入 #通関 #税関 https://note.com/prime_ixia2156/n/n6919262a0f99?sub_rt=share_pb",
+      "created_at": "2026-05-22",
+      "period_start": "2026-05-22",
+      "period_end": "2026-05-22",
+      "category": "食品"
+    },
+    {
+      "id": 268,
+      "title": "2026年5月【消費者庁・財務省】食品添加物規格基準改正・オフショア勘定統計更新｜輸入食品適合性確認への影響と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/nd9528812d65e?sub_rt=share_pb",
+      "created_at": "2026-05-22",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-22",
+      "category": "食品"
+    },
+    {
+      "id": 267,
+      "title": "2026年5月【税関】輸入申告書類・通関手続き改正｜契約書・価格表の必須化とフォワーダー対応の実務変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n97aa10347487?sub_rt=share_pb",
+      "created_at": "2026-05-22",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "税関"
+    },
+    {
+      "id": 266,
+      "title": "2026年5月【税関】知的財産侵害物品・輸入手続き・電子取引記録に関する重要更新｜輸入実務への影響まとめ",
+      "note_url": "https://note.com/prime_ixia2156/n/n328e5a626a50?sub_rt=share_pb",
+      "created_at": "2026-05-22",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "税関"
+    },
+    {
+      "id": 265,
+      "title": "2026年5月【税関・厚労省・JETRO】関税法基本通達表記統一・AEO認定事業者757者・輸入食品監視情報更新｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n21b9590d2297?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-21",
+      "category": "税関"
+    },
+    {
+      "id": 264,
+      "title": "2026年5月【経産省】日豪経済閣僚対話・電力需給対策・プレスリリース更新｜輸入実務への影響と注視ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n1bd2eec888ef?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "経産省"
+    },
+    {
+      "id": 263,
+      "title": "2026年5月【e-Gov パブリックコメント】農薬残留基準・航空従事者技能証明・事業再生手続きの新規案件公開｜輸入食品規制への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n20aaac152e2d?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 262,
+      "title": "2026年5月【消費者庁】食品表示基準パンフレット改正 pH調整剤表記統一と添加物表示簡素化｜輸入食品表示実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n154454f45279?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 261,
+      "title": "2024年9月～2026年5月【消費者庁】食品中残留農薬基準値の連続改正｜輸入食品検査・通関手続きへの影響と対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nb6219d3ab7d5?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 260,
+      "title": "2024年3月【厚生労働省】食品衛生法 残留農薬・添加物基準値改正 輸入食品検査・通関手続きへの影響｜10件の告示・通知一覧",
+      "note_url": "https://note.com/prime_ixia2156/n/ncdf55e43e6c0?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 259,
+      "title": "2024年3月【厚生労働省】食品衛生法残留基準値・添加物規格基準改正 輸入食品検査・表示対応の最新通知10件",
+      "note_url": "https://note.com/prime_ixia2156/n/nb246724ea6cf?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 258,
+      "title": "2026年5月【厚生労働省】食品衛生法 農薬・添加物残留基準値改正10件一括公開｜輸入食品検査・表示対応の最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/n210291d25ac3?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 257,
+      "title": "2024年3月【厚生労働省】食品衛生法 農薬・動物用医薬品の残留基準改正10件 輸入食品検査・表示対応の最新通知",
+      "note_url": "https://note.com/prime_ixia2156/n/n06425913473d?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 256,
+      "title": "2024年3月【厚生労働省】食品衛生法施行規則・農薬残留基準改正 輸入食品の検査・表示要件への影響と対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n51008cfacf8c?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 255,
+      "title": "2024年3月【厚生労働省】食品衛生法 農薬・動物用医薬品の残留基準改正 輸入食品検査・表示対応の最新通知10件",
+      "note_url": "https://note.com/prime_ixia2156/n/nafbcae52fb81?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 254,
+      "title": "2026年5月【厚生労働省】食品衛生法施行規則・農薬残留基準改正 輸入食品の産地・添加物表示要件と検査基準の最新通知10件",
+      "note_url": "https://note.com/prime_ixia2156/n/n8ef58b362f52?sub_rt=share_pb",
+      "created_at": "2026-05-21",
+      "period_start": "2026-05-21",
+      "period_end": "2026-05-21",
+      "category": "食品"
+    },
+    {
+      "id": 253,
+      "title": "2026年5月【日本海事広報協会】物流・海事リスク情報サイト更新｜VLGC市況・海運企業ニュース・船員教育支援の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/n7c3549b6e2ac?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "その他"
+    },
+    {
+      "id": 252,
+      "title": "2026年5月【e-Gov パブリックコメント】人事院公示改正案・家畜伝染病予防法施行令改正案・G7財務声明｜輸入規制・動物検疫への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n251801789cad?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "その他"
+    },
+    {
+      "id": 251,
+      "title": "2026年5月【経産省】化学物質規制令改正・日韓エネルギー協力強化・フリーランス取引適正化｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n079bbe8eb8d9?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "経産省"
+    },
+    {
+      "id": 250,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 第150～152回会議資料公開｜輸入食品事業者の注視ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n033331c40c1a?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 249,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 第146～150回会議資料の公開｜輸入食品表示規制への今後の影響を注視",
+      "note_url": "https://note.com/prime_ixia2156/n/n5978847a9a77?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 248,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 食品表示基準関連資料10件を初めて検知｜輸入食品の産地・添加物表示への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n183465d8ae77?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 247,
+      "title": "2024年9月【消費者庁】食品表示基準・消費者安全調査委員会関連資料10件一括公開｜輸入食品表示対応と安全規制の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/nb49c14026d4b?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 246,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会関連文書10件を初めて検知｜輸入食品の安全性基準・表示義務への今後の影響に注視",
+      "note_url": "https://note.com/prime_ixia2156/n/n67496336e0c0?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 245,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 第135～139回議事次第・議事要旨一括公開｜輸入食品表示規制への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nef6b0c0a651a?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 244,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 第130～135回議事次第・議事要旨一括公開｜輸入食品表示規制の動向監視ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/na0f49f9c6521?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 243,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 食品表示基準・産地表示に関する10件の議事資料を初めて検知｜輸入食品の表示規制への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n629f0aaee756?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 242,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 10件の会議資料・報告書を初めて検知｜輸入食品表示規制への今後の動向注視ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nf1ba1f08b0fd?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 241,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 関連文書10件の新規公開｜輸入食品表示規制への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n89c076dddd90?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 240,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 10周年活動報告書・議事資料 輸入食品表示規制への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n3c215249e7b6?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 239,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 10件の会議資料・議事次第を初めて検知｜輸入食品表示規制への今後の動向監視ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n115f6caaf62e?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 238,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 会議資料・議事録10件を初めて検知｜輸入食品の安全表示対応に関わる実務者向け",
+      "note_url": "https://note.com/prime_ixia2156/n/n2fe8fa1c9a21?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 237,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 会議資料・議事次第10件を一括公開｜輸入食品表示規制への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n9d5fb3849d17?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 236,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 食品表示基準・産地表示に関する会議資料10件を初めて検知｜輸入食品実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/ncfc55f39e419?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 235,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 10件の議事資料を初めて検知｜輸入食品表示基準への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n47049b52a38c?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 234,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 議事資料・報告書10件の新規公開｜輸入食品表示規制への関連情報確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n512fb893f4eb?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 233,
+      "title": "【消費者庁】2026年5月 消費者安全調査委員会 会議資料・議事次第の公開｜輸入食品実務への確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nfb844cf31213?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 232,
+      "title": "2026年5月【消費者庁】消費者安全調査委員会 第92～96回会議資料の公開｜輸入食品表示規制への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/ne8ca21b7e60f?sub_rt=share_pb",
+      "created_at": "2026-05-20",
+      "period_start": "2026-05-20",
+      "period_end": "2026-05-20",
+      "category": "食品"
+    },
+    {
+      "id": 231,
+      "title": "2026年5月【経産省】特定技能外国人の業務区分明確化｜金属表面処理の細分化と施行スケジュール変更が輸入実務に与える影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n897adbe2dcc8?sub_rt=share_pb",
+      "created_at": "2026-05-19",
+      "period_start": "2026-05-18",
+      "period_end": "2026-05-18",
+      "category": "経産省"
+    },
+    {
+      "id": 230,
+      "title": "2026年5月【財務省・資源エネルギー庁・国土交通省】外国為替法令IT活用改正・電力ガス事業制度検討など3件のパブリックコメント募集開始｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n89fdbdba74bb?sub_rt=share_pb",
+      "created_at": "2026-05-18",
+      "period_start": "2026-05-18",
+      "period_end": "2026-05-18",
+      "category": "経産省"
+    }
+  ]
+}
