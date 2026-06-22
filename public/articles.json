@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 177,
+    "total_articles": 178,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -21,6 +21,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 454,
+      "title": "2026年6月【税関・経産省・消費者庁】輸出管理令改正・知的財産差止申立て状況変更・パブリックコメント新規追加｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n01ddb9b4b4df?sub_rt=share_pb",
+      "created_at": "2026-06-22",
+      "period_start": "2026-06-21",
+      "period_end": "2026-06-22",
+      "category": "税関"
+    },
     {
       "id": 453,
       "title": "2026年6月【税関】リコー製トナーカートリッジ知的財産侵害差止申立の受理状況変更｜輸入通関への実務影響",
