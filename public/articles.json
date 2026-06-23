@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 178,
+    "total_articles": 183,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -21,6 +21,51 @@
     ]
   },
   "articles": [
+    {
+      "id": 459,
+      "title": "【JETRO】2026年6月22日 ビジネス短信ニュース追加｜輸入実務に関連する通商動向・規制情報の最新情報源",
+      "note_url": "https://note.com/prime_ixia2156/n/n7d47358c287f?sub_rt=share_pb",
+      "created_at": "2026-06-23",
+      "period_start": "2026-06-22",
+      "period_end": "2026-06-23",
+      "category": "その他"
+    },
+    {
+      "id": 458,
+      "title": "2026年6月【経産省・厚労省・税関】安全保障貿易管理ガイドライン・輸入差止申立て・補助金施行日確定｜輸入実務への影響と変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n9ae4e66685d2?sub_rt=share_pb",
+      "created_at": "2026-06-23",
+      "period_start": "2026-06-22",
+      "period_end": "2026-06-23",
+      "category": "税関"
+    },
+    {
+      "id": 457,
+      "title": "2026年6月【消費者庁】食品表示基準・機能性表示食品制度の最新情報更新｜輸入食品表示対応への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n48632d9e3c8b?sub_rt=share_pb",
+      "created_at": "2026-06-23",
+      "period_start": "2026-06-23",
+      "period_end": "2026-06-23",
+      "category": "食品"
+    },
+    {
+      "id": 456,
+      "title": "2026年6月【日本商工会議所・内閣府】特定原産地証明書関連文書3件公開｜観光産業課題と経済安全保障対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n721dd1ff209d?sub_rt=share_pb",
+      "created_at": "2026-06-23",
+      "period_start": "2026-06-23",
+      "period_end": "2026-06-23",
+      "category": "その他"
+    },
+    {
+      "id": 455,
+      "title": "2026年6月【e-Gov・財務省】産業競争力強化法政令改正・たばこ製品リスト大幅変更｜輸入実務への影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n40ee294595c2?sub_rt=share_pb",
+      "created_at": "2026-06-23",
+      "period_start": "2026-06-22",
+      "period_end": "2026-06-23",
+      "category": "財務省"
+    },
     {
       "id": 454,
       "title": "2026年6月【税関・経産省・消費者庁】輸出管理令改正・知的財産差止申立て状況変更・パブリックコメント新規追加｜輸入実務への影響",
