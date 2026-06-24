@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 183,
+    "total_articles": 184,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -21,6 +21,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 468,
+      "title": "2026年6月【厚労省】輸入食品衛生監視部会の議事録・配付資料が相次ぎ公開｜食品輸入基準改正の検討状況を把握",
+      "note_url": "https://note.com/prime_ixia2156/n/n7f8bce667f61?sub_rt=share_pb",
+      "created_at": "2026-06-24",
+      "period_start": "2026-06-23",
+      "period_end": "2026-06-24",
+      "category": "食品"
+    },
     {
       "id": 459,
       "title": "【JETRO】2026年6月22日 ビジネス短信ニュース追加｜輸入実務に関連する通商動向・規制情報の最新情報源",
