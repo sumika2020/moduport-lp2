@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 184,
+    "total_articles": 185,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -27,6 +27,15 @@
       "note_url": "https://note.com/prime_ixia2156/n/n7f8bce667f61?sub_rt=share_pb",
       "created_at": "2026-06-24",
       "period_start": "2026-06-23",
+      "period_end": "2026-06-24",
+      "category": "食品"
+    },
+    {
+      "id": 467,
+      "title": "2026年6月【消費者庁】食品表示基準・機能性表示食品制度 説明会開催と届出情報更新｜輸入食品表示対応の最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/nb9ddaf8e6594?sub_rt=share_pb",
+      "created_at": "2026-06-24",
+      "period_start": "2026-06-24",
       "period_end": "2026-06-24",
       "category": "食品"
     },
