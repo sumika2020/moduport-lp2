@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 191,
+    "total_articles": 192,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -92,6 +92,15 @@
       "period_start": "2026-06-23",
       "period_end": "2026-06-23",
       "category": "財務省"
+    },
+    {
+      "id": 460,
+      "title": "2026年6月【経産省・農水省】輸出規制品目改正・動物用生物学的製剤基準パブリックコメント受付中｜輸入実務への影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n0ac1b4d0f8ae?sub_rt=share_pb",
+      "created_at": "2026-06-24",
+      "period_start": "2026-06-23",
+      "period_end": "2026-06-24",
+      "category": "経産省"
     },
     {
       "id": 459,
