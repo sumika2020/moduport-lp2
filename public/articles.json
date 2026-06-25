@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 200,
+    "total_articles": 201,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -21,6 +21,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 538,
+      "title": "2026年6月【JETRO】ビジネス短信ニュース配信更新｜海外政治動向・エネルギー・港湾情報の最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/n866e1061c1ee?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-25",
+      "period_end": "2026-06-25",
+      "category": "経産省"
+    },
     {
       "id": 516,
       "title": "2026年6月【税関・消費者庁・JETRO】知的財産侵害物品差止申立て撤回・食品表示基準・通関手続き最新情報｜輸入実務への影響",
