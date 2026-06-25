@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 205,
+    "total_articles": 206,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -65,6 +65,15 @@
       "period_start": "2026-06-25",
       "period_end": "2026-06-25",
       "category": "経産省"
+    },
+    {
+      "id": 533,
+      "title": "2006年9月【財務省関税局】関税定率法等改正政令・関税法施行令改正｜輸入申告・品目分類・外国貿易船手続きの変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n90f2b4aa647a?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-25",
+      "period_end": "2026-06-25",
+      "category": "財務省"
     },
     {
       "id": 516,
