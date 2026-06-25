@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 202,
+    "total_articles": 203,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -38,6 +38,15 @@
       "period_start": "2026-06-25",
       "period_end": "2026-06-25",
       "category": "経産省"
+    },
+    {
+      "id": 536,
+      "title": "2026年6月【財務省関税局】関税法施行令改正案 輸出入禁止・規制品目の政令参照条文・新旧対照条文を公開｜通関実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nd0ae54a5391a?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-25",
+      "period_end": "2026-06-25",
+      "category": "財務省"
     },
     {
       "id": 516,
