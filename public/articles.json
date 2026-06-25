@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 194,
+    "total_articles": 195,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -38,6 +38,15 @@
       "period_start": "2026-06-25",
       "period_end": "2026-06-25",
       "category": "食品"
+    },
+    {
+      "id": 514,
+      "title": "2026年6月【経産省】受託中小企業振興基準改正・知財データ取引指針公表｜輸入事業者の契約リスク管理と下請け基準への対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n3ea6a65f9c69?sub_rt=share_pb",
+      "created_at": "2026-06-25",
+      "period_start": "2026-06-24",
+      "period_end": "2026-06-25",
+      "category": "経産省"
     },
     {
       "id": 468,
