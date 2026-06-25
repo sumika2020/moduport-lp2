@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 192,
+    "total_articles": 193,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -21,6 +21,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 516,
+      "title": "2026年6月【税関・消費者庁・JETRO】知的財産侵害物品差止申立て撤回・食品表示基準・通関手続き最新情報｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/ndf4804a979d4?sub_rt=share_pb",
+      "created_at": "2026-06-25",
+      "period_start": "2026-06-24",
+      "period_end": "2026-06-25",
+      "category": "税関"
+    },
     {
       "id": 468,
       "title": "2026年6月【厚労省】輸入食品衛生監視部会の議事録・配付資料が相次ぎ公開｜食品輸入基準改正の検討状況を把握",
