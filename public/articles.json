@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 216,
+    "total_articles": 217,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -160,6 +160,15 @@
       "id": 523,
       "title": "2026年6月【財務省・税関】電子情報処理組織による税関手続特例法関連政令10件の新規公開｜輸入申告・通関手続への影響",
       "note_url": "https://note.com/prime_ixia2156/n/n72a043d14cc5?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-25",
+      "period_end": "2026-06-25",
+      "category": "税関"
+    },
+    {
+      "id": 522,
+      "title": "2021年9月【財務省・税関】電子情報処理組織による税関手続特例法・関税定率法改正政令 10件の関連文書を初めて検知｜輸入申告手続きへの影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nfd7db3349327?sub_rt=share_pb",
       "created_at": "2026-06-26",
       "period_start": "2026-06-25",
       "period_end": "2026-06-25",
