@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 219,
+    "total_articles": 220,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -187,6 +187,15 @@
       "id": 520,
       "title": "2026年6月【財務省関税局】平成14年政令第114号・115号・116号 緊急関税・セーフガード関連政令資料の一括公開｜輸入実務への影響",
       "note_url": "https://note.com/prime_ixia2156/n/n78217e1a9d5f?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-25",
+      "period_end": "2026-06-25",
+      "category": "財務省"
+    },
+    {
+      "id": 519,
+      "title": "2002年4月【財務省関税局】台湾WTO加盟・不当廉売関税・緊急関税に関する政令改正｜輸入関税率への影響と通関実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n2425c694dfc2?sub_rt=share_pb",
       "created_at": "2026-06-26",
       "period_start": "2026-06-25",
       "period_end": "2026-06-25",
