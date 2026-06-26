@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 224,
+    "total_articles": 225,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -34,6 +34,15 @@
       "id": 543,
       "title": "2026年6月【消費者庁】食品表示基準 特定保健用食品許可・夏期一斉取締り開始｜輸入食品の表示コンプライアンス強化",
       "note_url": "https://note.com/prime_ixia2156/n/n4ac2ec279669?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-26",
+      "period_end": "2026-06-26",
+      "category": "食品"
+    },
+    {
+      "id": 542,
+      "title": "2026年6月【厚労省】機能性表示食品の健康被害対応小委員会・第17回配付資料公開｜輸入食品事業者の申請・コンプライアンス対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n424b9831b436?sub_rt=share_pb",
       "created_at": "2026-06-26",
       "period_start": "2026-06-26",
       "period_end": "2026-06-26",
