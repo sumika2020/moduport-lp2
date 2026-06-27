@@ -1,23 +1,20 @@
 {
   "stats": {
     "total_articles": 231,
-    "watch_targets": 42,
-    "ministries_count": 14,
+    "watch_targets": 36,
+    "ministries_count": 11,
     "ministries": [
-      "IATA",
       "JETRO",
       "NACCSセンター",
       "e-Gov（パブコメ）",
       "kaijipress.com",
-      "wcoomd.org",
       "厚生労働省",
       "日本商工会議所",
       "消費者庁",
       "環境省",
+      "税関",
       "経済産業省",
-      "財務省",
-      "財務省・税関",
-      "農林水産省"
+      "財務省"
     ]
   },
   "articles": [
