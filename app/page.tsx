@@ -69,7 +69,7 @@ export default function Home() {
       <section className="hero-gradient py-20 md:py-28 px-4 text-white">
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-block bg-[#c9a227] text-[#091d3e] text-xs font-bold px-4 py-1.5 rounded-full mb-6 tracking-wider uppercase">
-            輸入・通関実務担当者向け情報サービス
+            輸出入・通関実務担当者向け情報サービス
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold leading-tight mb-6 tracking-tight">
             輸入規制・通関の公式情報を
@@ -81,7 +81,7 @@ export default function Home() {
             <strong className="text-white"> {stats.watch_targets}サイト</strong>
             の最新情報を毎日自動収集。
             <br />
-            変更点をAIが分析し、実務への影響をnoteで解説します。
+            AIが変更点をシームレスに分析。実務への影響をまとめた解説をnoteで配信します。
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -171,28 +171,28 @@ export default function Home() {
       <section className="py-16 px-4 bg-[#0f2d5e] text-white">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-10">
-            なぜ ModuPort が選ばれるのか
+            ModuPortの3つの特徴
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white/10 rounded-xl p-6 border border-white/10">
               <div className="text-3xl mb-4">🔍</div>
               <h3 className="font-bold text-lg mb-2 text-[#c9a227]">公式一次情報を直接収集</h3>
               <p className="text-blue-100 text-sm leading-relaxed">
-                税関・経産省・厚労省など官公庁のウェブサイトから、更新情報を毎日自動収集。誤情報のリスクなし。
+                税関・経産省・厚労省など官公庁のウェブサイトから、更新情報を毎日自動収集。公式サイトの情報をそのまま収集しているため、ソースの歪みや誤情報が混入するリスクがありません。
               </p>
             </div>
             <div className="bg-white/10 rounded-xl p-6 border border-white/10">
               <div className="text-3xl mb-4">🤖</div>
               <h3 className="font-bold text-lg mb-2 text-[#c9a227]">AIによる実務影響分析</h3>
               <p className="text-blue-100 text-sm leading-relaxed">
-                収集した変更点をAIが分析し、「輸入実務に何がどう影響するか」を具体的に解説。見落とし防止に。
+                収集した変更点をAIが分析し、「輸出入実務に何がどう影響するか」を具体的に解説。重要な法改正や手続き変更の見落としを防ぎます。
               </p>
             </div>
             <div className="bg-white/10 rounded-xl p-6 border border-white/10">
               <div className="text-3xl mb-4">📋</div>
               <h3 className="font-bold text-lg mb-2 text-[#c9a227]">実務担当者目線の要約</h3>
               <p className="text-blue-100 text-sm leading-relaxed">
-                法令改正・手続き変更・通達発出など、通関・輸入担当者が知るべき情報をコンパクトにまとめています。
+                法令改正・手続き変更・通達発出など、通関・輸出入担当者が知るべき情報をコンパクトにまとめています。
               </p>
             </div>
           </div>
@@ -206,7 +206,7 @@ export default function Home() {
       <section className="py-16 px-4 bg-[#091d3e] text-white text-center">
         <div className="max-w-2xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold mb-4">
-            通関・輸入実務の情報収集を、もっとラクに
+            通関・輸出入実務の情報収集を、もっとラクに
           </h2>
           <p className="text-blue-100 mb-8 text-base leading-relaxed">
             毎日の公式情報チェックをModuPortに任せてください。
