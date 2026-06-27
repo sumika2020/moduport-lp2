@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 225,
+    "total_articles": 226,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -43,6 +43,15 @@
       "id": 542,
       "title": "2026年6月【厚労省】機能性表示食品の健康被害対応小委員会・第17回配付資料公開｜輸入食品事業者の申請・コンプライアンス対応",
       "note_url": "https://note.com/prime_ixia2156/n/n424b9831b436?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-26",
+      "period_end": "2026-06-26",
+      "category": "食品"
+    },
+    {
+      "id": 541,
+      "title": "2026年6月【厚労省】輸入食品停止措置・違反事例トピックス 10件の新規通知・審議会資料公開｜食品衛生監視の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/n46047fbe1567?sub_rt=share_pb",
       "created_at": "2026-06-26",
       "period_start": "2026-06-26",
       "period_end": "2026-06-26",
