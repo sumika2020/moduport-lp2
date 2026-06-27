@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 227,
+    "total_articles": 228,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -65,6 +65,15 @@
       "period_start": "2026-06-26",
       "period_end": "2026-06-26",
       "category": "財務省"
+    },
+    {
+      "id": 539,
+      "title": "2026年6月【e-Gov パブリックコメント】農地法・動物用医薬品省令改正案が新規掲載｜食品・畜産物輸入実務への影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n2b1c516e7d7b?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-26",
+      "period_end": "2026-06-26",
+      "category": "食品"
     },
     {
       "id": 538,
