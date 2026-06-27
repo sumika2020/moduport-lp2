@@ -53,7 +53,7 @@ export default function Home() {
       {/* ヘッダー */}
       <header className="bg-[#091d3e] py-4 px-6 flex items-center justify-between sticky top-0 z-50 shadow-lg">
         <div className="flex items-center">
-          <img src="/logo.png" alt="ModuPort" className="h-9 w-auto" />
+          <img src="/logo.png" alt="ModuPort" className="h-14 w-auto" />
         </div>
         <a
           href="https://note.com/prime_ixia2156"
@@ -228,7 +228,7 @@ export default function Home() {
       <footer className="bg-[#060f1e] text-gray-400 py-8 px-4">
         <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center">
-            <img src="/logo.png" alt="ModuPort" className="h-7 w-auto" />
+            <img src="/logo.png" alt="ModuPort" className="h-10 w-auto" />
           </div>
           <p className="text-sm text-center md:text-right">
             輸入規制・通関情報の自動収集・解説サービス
