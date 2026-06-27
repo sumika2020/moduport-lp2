@@ -52,13 +52,8 @@ export default function Home() {
     <div className="flex flex-col min-h-screen">
       {/* ヘッダー */}
       <header className="bg-[#091d3e] py-4 px-6 flex items-center justify-between sticky top-0 z-50 shadow-lg">
-        <div className="flex items-center gap-2">
-          <div className="w-8 h-8 bg-[#c9a227] rounded flex items-center justify-center">
-            <span className="text-white font-bold text-sm">M</span>
-          </div>
-          <span className="text-white font-bold text-lg tracking-wide">
-            ModuPort
-          </span>
+        <div className="flex items-center">
+          <img src="/logo.png" alt="ModuPort" className="h-9 w-auto" />
         </div>
         <a
           href="https://note.com/prime_ixia2156"
@@ -232,11 +227,8 @@ export default function Home() {
       {/* フッター */}
       <footer className="bg-[#060f1e] text-gray-400 py-8 px-4">
         <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-2">
-            <div className="w-6 h-6 bg-[#c9a227] rounded flex items-center justify-center">
-              <span className="text-white font-bold text-xs">M</span>
-            </div>
-            <span className="text-white font-semibold">ModuPort</span>
+          <div className="flex items-center">
+            <img src="/logo.png" alt="ModuPort" className="h-7 w-auto" />
           </div>
           <p className="text-sm text-center md:text-right">
             輸入規制・通関情報の自動収集・解説サービス
