@@ -53,7 +53,7 @@ export default function Home() {
       {/* ヘッダー */}
       <header className="bg-[#091d3e] py-4 px-6 flex items-center justify-between sticky top-0 z-50 shadow-lg">
         <div className="flex items-center">
-          <img src="/logo.png" alt="ModuPort" className="h-14 w-auto" />
+          <img src="/logo.png" alt="ModuPort" className="h-20 w-auto max-w-[200px]" />
         </div>
         <a
           href="https://note.com/prime_ixia2156"
