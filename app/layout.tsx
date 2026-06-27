@@ -10,6 +10,11 @@ const geistSans = Geist({
 export const metadata: Metadata = {
   title: 'ModuPort | 輸入規制・通関の公式情報を毎日チェック',
   description: '財務省・税関・経済産業省・厚生労働省など42サイトの最新情報を毎日収集。AIが分析し、実務への影響をnoteで解説します。',
+  icons: {
+    icon: '/favicon.png',
+    shortcut: '/favicon.png',
+    apple: '/favicon.png',
+  },
   openGraph: {
     title: 'ModuPort | 輸入規制・通関の公式情報を毎日チェック',
     description: '財務省・税関・経済産業省・厚生労働省など42サイトの最新情報を毎日収集。AIが分析し、実務への影響をnoteで解説します。',
