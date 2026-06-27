@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 228,
+    "total_articles": 229,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -21,6 +21,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 547,
+      "title": "2026年6月【JETRO・厚労省】英国FDDD規則導入・東アフリカ製造業規則施行・輸入食品監視措置｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n1b4209925eb8?sub_rt=share_pb",
+      "created_at": "2026-06-27",
+      "period_start": "2026-06-26",
+      "period_end": "2026-06-26",
+      "category": "食品"
+    },
     {
       "id": 544,
       "title": "2026年6月【経産省・NACCS】中小企業支援制度・通関システム関連情報の新規公開｜輸入実務への間接的影響",
