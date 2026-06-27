@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 229,
+    "total_articles": 230,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -29,6 +29,15 @@
       "period_start": "2026-06-26",
       "period_end": "2026-06-26",
       "category": "食品"
+    },
+    {
+      "id": 546,
+      "title": "2026年6月【税関】知的財産侵害物品差止申立て受理状況の変更と貿易統計最新データ公開｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n62c4a7a91f92?sub_rt=share_pb",
+      "created_at": "2026-06-27",
+      "period_start": "2026-06-26",
+      "period_end": "2026-06-26",
+      "category": "税関"
     },
     {
       "id": 544,
