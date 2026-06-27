@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 226,
+    "total_articles": 227,
     "watch_targets": 42,
     "ministries_count": 14,
     "ministries": [
@@ -56,6 +56,15 @@
       "period_start": "2026-06-26",
       "period_end": "2026-06-26",
       "category": "食品"
+    },
+    {
+      "id": 540,
+      "title": "2026年6月【財務省】関税局人事異動発令｜輸入実務担当者が知るべき組織体制の変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n1b7d6621a1e2?sub_rt=share_pb",
+      "created_at": "2026-06-26",
+      "period_start": "2026-06-26",
+      "period_end": "2026-06-26",
+      "category": "財務省"
     },
     {
       "id": 538,
