@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 234,
+    "total_articles": 235,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-06-29",
       "period_end": "2026-06-29",
       "category": "その他"
+    },
+    {
+      "id": 555,
+      "title": "2026年6月【税関】知的財産侵害物品の輸出差止申立て受理状況更新｜グッチ・シャープ・ソニーなど4件新規受理と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/nc83304b9907c?sub_rt=share_pb",
+      "created_at": "2026-06-30",
+      "period_start": "2026-06-29",
+      "period_end": "2026-06-30",
+      "category": "税関"
     },
     {
       "id": 549,
