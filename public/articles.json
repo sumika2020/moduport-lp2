@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 236,
+    "total_articles": 237,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-06-29",
       "period_end": "2026-06-29",
       "category": "食品"
+    },
+    {
+      "id": 553,
+      "title": "2026年6月【経産省】ワシントン条約対象品目・取扱国情報の最新更新｜輸入許可基準と野生動植物貿易規制への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n201fcc340e1b?sub_rt=share_pb",
+      "created_at": "2026-06-30",
+      "period_start": "2026-06-29",
+      "period_end": "2026-06-30",
+      "category": "経産省"
     },
     {
       "id": 549,
