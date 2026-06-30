@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 238,
+    "total_articles": 239,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -58,6 +58,15 @@
       "id": 552,
       "title": "2026年6月【財務省】関税局・国際局の最新文書公開｜輸入実務への影響確認ポイント",
       "note_url": "https://note.com/prime_ixia2156/n/na1ff76d4c1f2?sub_rt=share_pb",
+      "created_at": "2026-06-30",
+      "period_start": "2026-06-29",
+      "period_end": "2026-06-29",
+      "category": "財務省"
+    },
+    {
+      "id": 551,
+      "title": "2026年6月【財務省】東京財政フォーラム2026セミナー資料10件公開｜輸入実務関連情報の確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n3f6ef868f12a?sub_rt=share_pb",
       "created_at": "2026-06-30",
       "period_start": "2026-06-29",
       "period_end": "2026-06-29",
