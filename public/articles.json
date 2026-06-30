@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 235,
+    "total_articles": 236,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-06-29",
       "period_end": "2026-06-30",
       "category": "税関"
+    },
+    {
+      "id": 554,
+      "title": "2026年6月【厚労省・感染症研究所】ジカウイルス・デング熱関連ガイドライン・マニュアル公開｜輸入実務への直接影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/ne1c3c8af7d68?sub_rt=share_pb",
+      "created_at": "2026-06-30",
+      "period_start": "2026-06-29",
+      "period_end": "2026-06-29",
+      "category": "食品"
     },
     {
       "id": 549,
