@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 245,
+    "total_articles": 246,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -62,6 +62,15 @@
       "period_start": "2026-06-30",
       "period_end": "2026-07-01",
       "category": "経産省"
+    },
+    {
+      "id": 561,
+      "title": "2026年6月30日【税関・財務省関税局】関税法基本通達改正・外国為替相場公示・セーフガード発動｜輸入申告手続きの最新変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n496e30597434?sub_rt=share_pb",
+      "created_at": "2026-07-01",
+      "period_start": "2026-06-30",
+      "period_end": "2026-06-30",
+      "category": "税関"
     },
     {
       "id": 556,
