@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 242,
+    "total_articles": 243,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-06-30",
       "period_end": "2026-07-01",
       "category": "食品"
+    },
+    {
+      "id": 564,
+      "title": "2026年6月【経産省・個人情報保護委員会】産業データ越境管理ガイドライン・APEC越境プライバシールール最新資料｜輸入企業のデータコンプライアンス対応",
+      "note_url": "https://note.com/prime_ixia2156/n/nbcda03fdca4d?sub_rt=share_pb",
+      "created_at": "2026-07-01",
+      "period_start": "2026-06-30",
+      "period_end": "2026-06-30",
+      "category": "経産省"
     },
     {
       "id": 556,
