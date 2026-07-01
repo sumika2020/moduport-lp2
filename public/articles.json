@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 246,
+    "total_articles": 247,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -71,6 +71,15 @@
       "period_start": "2026-06-30",
       "period_end": "2026-06-30",
       "category": "税関"
+    },
+    {
+      "id": 560,
+      "title": "2026年6月【財務省関税局】関税法基本通達・輸入申告手続き・統計基本通達の一括改正｜10件の通達文書を公開",
+      "note_url": "https://note.com/prime_ixia2156/n/n032e47e7a3bd?sub_rt=share_pb",
+      "created_at": "2026-07-01",
+      "period_start": "2026-06-30",
+      "period_end": "2026-06-30",
+      "category": "財務省"
     },
     {
       "id": 556,
