@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 243,
+    "total_articles": 244,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -40,6 +40,15 @@
       "id": 564,
       "title": "2026年6月【経産省・個人情報保護委員会】産業データ越境管理ガイドライン・APEC越境プライバシールール最新資料｜輸入企業のデータコンプライアンス対応",
       "note_url": "https://note.com/prime_ixia2156/n/nbcda03fdca4d?sub_rt=share_pb",
+      "created_at": "2026-07-01",
+      "period_start": "2026-06-30",
+      "period_end": "2026-06-30",
+      "category": "経産省"
+    },
+    {
+      "id": 563,
+      "title": "2026年6月【経産省】CITES輸入手続き・育成就労制度・データ越境移転の最新変更点｜組織改編と申請様式更新が輸入実務に影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n0f44442aa567?sub_rt=share_pb",
       "created_at": "2026-07-01",
       "period_start": "2026-06-30",
       "period_end": "2026-06-30",
