@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 241,
+    "total_articles": 242,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 566,
       "title": "2026年7月【消費者庁・厚労省】輸入食品表示基準・機能性表示届出データベース更新｜食品輸入実務への影響と確認ポイント",
       "note_url": "https://note.com/prime_ixia2156/n/n12dd49e0fccb?sub_rt=share_pb",
+      "created_at": "2026-07-01",
+      "period_start": "2026-06-30",
+      "period_end": "2026-07-01",
+      "category": "食品"
+    },
+    {
+      "id": 565,
+      "title": "2026年7月【e-Gov パブリックコメント】食品表示基準・労働施策・電気通信規制の同時改正｜輸入食品・物流事業者への実務影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/nd99f7d28f807?sub_rt=share_pb",
       "created_at": "2026-07-01",
       "period_start": "2026-06-30",
       "period_end": "2026-07-01",
