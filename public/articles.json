@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 244,
+    "total_articles": 245,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -52,6 +52,15 @@
       "created_at": "2026-07-01",
       "period_start": "2026-06-30",
       "period_end": "2026-06-30",
+      "category": "経産省"
+    },
+    {
+      "id": 562,
+      "title": "2026年6月【経産省】ニッケル系ステンレス鋼ダンピング関税・通商白書・事業再生法施行｜輸入実務への影響と10件の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/n063151c2fda4?sub_rt=share_pb",
+      "created_at": "2026-07-01",
+      "period_start": "2026-06-30",
+      "period_end": "2026-07-01",
       "category": "経産省"
     },
     {
