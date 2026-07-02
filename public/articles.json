@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 255,
+    "total_articles": 256,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -61,6 +61,15 @@
       "created_at": "2026-07-02",
       "period_start": "2026-07-01",
       "period_end": "2026-07-01",
+      "category": "食品"
+    },
+    {
+      "id": 569,
+      "title": "2026年7月【厚生労働省】食品衛生監視部会・紅麹事案関連資料の公開｜輸入食品監視体制の最新動向と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/ned94a5fd126f?sub_rt=share_pb",
+      "created_at": "2026-07-02",
+      "period_start": "2026-07-01",
+      "period_end": "2026-07-02",
       "category": "食品"
     },
     {
