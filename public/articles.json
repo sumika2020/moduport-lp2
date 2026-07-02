@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 254,
+    "total_articles": 255,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -53,6 +53,15 @@
       "period_start": "2026-07-01",
       "period_end": "2026-07-02",
       "category": "その他"
+    },
+    {
+      "id": 570,
+      "title": "2026年7月【厚労省】輸入食品監視・輸入停止措置等一覧 福島原発関連の食品規制情報｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n73641e4ae973?sub_rt=share_pb",
+      "created_at": "2026-07-02",
+      "period_start": "2026-07-01",
+      "period_end": "2026-07-01",
+      "category": "食品"
     },
     {
       "id": 566,
