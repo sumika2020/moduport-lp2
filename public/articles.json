@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 251,
+    "total_articles": 252,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-01",
       "period_end": "2026-07-01",
       "category": "税関"
+    },
+    {
+      "id": 573,
+      "title": "2026年7月【消費者庁】食品表示基準改正案・製造所固有記号制度マニュアル公開｜輸入食品の表示ルール変更と届出手続きへの影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n501d04ca3e2c?sub_rt=share_pb",
+      "created_at": "2026-07-02",
+      "period_start": "2026-07-02",
+      "period_end": "2026-07-02",
+      "category": "食品"
     },
     {
       "id": 566,
