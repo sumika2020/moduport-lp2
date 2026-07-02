@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 250,
+    "total_articles": 251,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 574,
+      "title": "2026年7月【JETRO】中国の日本企業40社に対する両用品目輸出禁止・米税関232条関税ガイダンス発表｜輸入実務への影響と対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n13565ce33303?sub_rt=share_pb",
+      "created_at": "2026-07-02",
+      "period_start": "2026-07-01",
+      "period_end": "2026-07-01",
+      "category": "税関"
+    },
     {
       "id": 566,
       "title": "2026年7月【消費者庁・厚労省】輸入食品表示基準・機能性表示届出データベース更新｜食品輸入実務への影響と確認ポイント",
