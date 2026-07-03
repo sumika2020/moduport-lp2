@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 261,
+    "total_articles": 262,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-07-02",
       "period_end": "2026-07-03",
       "category": "経産省"
+    },
+    {
+      "id": 575,
+      "title": "2026年7月【消費者庁】食品表示基準・消費者契約法改正関連文書の新規公開｜輸入食品の産地・添加物表示対応ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n5c84fdbe8d59?sub_rt=share_pb",
+      "created_at": "2026-07-03",
+      "period_start": "2026-07-03",
+      "period_end": "2026-07-03",
+      "category": "食品"
     },
     {
       "id": 574,
