@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 259,
+    "total_articles": 260,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-02",
       "period_end": "2026-07-03",
       "category": "税関"
+    },
+    {
+      "id": 577,
+      "title": "2026年7月【財務省】外国為替及び外国貿易法改正政令案・証券投資統計更新・関税部会資料順序変更｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nf70c74e722c5?sub_rt=share_pb",
+      "created_at": "2026-07-03",
+      "period_start": "2026-07-02",
+      "period_end": "2026-07-03",
+      "category": "財務省"
     },
     {
       "id": 574,
