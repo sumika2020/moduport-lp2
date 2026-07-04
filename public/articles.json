@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 265,
+    "total_articles": 266,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-07-03",
       "period_end": "2026-07-03",
       "category": "税関"
+    },
+    {
+      "id": 579,
+      "title": "2026年7月【財務省関税局】大韓民国産炭酸二カリウム・中国台湾産ニッケル系ステンレス鋼板の不当廉売関税決定｜輸入コスト増加への対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n1f1e4df5cac0?sub_rt=share_pb",
+      "created_at": "2026-07-04",
+      "period_start": "2026-07-03",
+      "period_end": "2026-07-04",
+      "category": "財務省"
     },
     {
       "id": 578,
