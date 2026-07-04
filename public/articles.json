@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 263,
+    "total_articles": 264,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-03",
       "period_end": "2026-07-04",
       "category": "食品"
+    },
+    {
+      "id": 581,
+      "title": "2026年7月【経産省】ダンピング関税延長・中国産ニッケル鋼材・日印AI協力｜輸入実務への影響と関税納付額再確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n61093ddddf51?sub_rt=share_pb",
+      "created_at": "2026-07-04",
+      "period_start": "2026-07-03",
+      "period_end": "2026-07-04",
+      "category": "経産省"
     },
     {
       "id": 578,
