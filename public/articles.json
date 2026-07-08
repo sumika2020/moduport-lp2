@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 287,
+    "total_articles": 288,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -148,6 +148,15 @@
       "id": 594,
       "title": "2026年7月【税関】平成16～17年度関税改正省令10件 帳簿保存義務化・郵便物納税手続き電子化・一時輸入制度の変更点",
       "note_url": "https://note.com/prime_ixia2156/n/n804ca71fc470?sub_rt=share_pb",
+      "created_at": "2026-07-09",
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "category": "税関"
+    },
+    {
+      "id": 593,
+      "title": "2021年9月【財務省・税関】通関業法・関税法施行規則改正 10件の省令文書公開｜輸入申告・通関士試験・電子手続き対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n36ede351f35b?sub_rt=share_pb",
       "created_at": "2026-07-09",
       "period_start": "2026-07-08",
       "period_end": "2026-07-08",
