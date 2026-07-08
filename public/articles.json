@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 286,
+    "total_articles": 287,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -143,6 +143,15 @@
       "period_start": "2026-07-08",
       "period_end": "2026-07-08",
       "category": "財務省"
+    },
+    {
+      "id": 594,
+      "title": "2026年7月【税関】平成16～17年度関税改正省令10件 帳簿保存義務化・郵便物納税手続き電子化・一時輸入制度の変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n804ca71fc470?sub_rt=share_pb",
+      "created_at": "2026-07-09",
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "category": "税関"
     },
     {
       "id": 588,
