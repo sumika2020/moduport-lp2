@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 289,
+    "total_articles": 290,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -170,6 +170,15 @@
       "period_start": "2026-07-08",
       "period_end": "2026-07-08",
       "category": "税関"
+    },
+    {
+      "id": 591,
+      "title": "2021年9月【財務省関税局】関税法施行規則・特恵関税制度・通関情報処理センター関連省令改正｜輸入申告手続きと原産地認定基準の変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n684e3421c389?sub_rt=share_pb",
+      "created_at": "2026-07-09",
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "category": "財務省"
     },
     {
       "id": 588,
