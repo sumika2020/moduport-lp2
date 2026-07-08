@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 271,
+    "total_articles": 272,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-07",
       "period_end": "2026-07-08",
       "category": "税関"
+    },
+    {
+      "id": 587,
+      "title": "2026年7月【e-Gov パブリックコメント】船員法施行規則改正・AML規制（犯罪収益移転防止法）の輸出入実務への影響｜海上輸送・国際決済リスク",
+      "note_url": "https://note.com/prime_ixia2156/n/nd2b037abe292?sub_rt=share_pb",
+      "created_at": "2026-07-08",
+      "period_start": "2026-07-07",
+      "period_end": "2026-07-08",
+      "category": "その他"
     },
     {
       "id": 586,
