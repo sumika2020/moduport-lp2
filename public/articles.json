@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 285,
+    "total_articles": 286,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -134,6 +134,15 @@
       "period_start": "2026-07-08",
       "period_end": "2026-07-08",
       "category": "税関"
+    },
+    {
+      "id": 595,
+      "title": "2021年9月【財務省 関税局】通関業許可申請・保証団体認可・関税割当制度の省令改正10件｜登記書類変更と電子手続き対応",
+      "note_url": "https://note.com/prime_ixia2156/n/naff23d7ecb94?sub_rt=share_pb",
+      "created_at": "2026-07-09",
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "category": "財務省"
     },
     {
       "id": 588,
