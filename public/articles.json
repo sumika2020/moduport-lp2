@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 291,
+    "total_articles": 292,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -184,6 +184,15 @@
       "id": 590,
       "title": "【税関】2026年7月 関税法電子申請・届出制度関連省令10文書の初回検知｜輸入申告手続きのデジタル化対応",
       "note_url": "https://note.com/prime_ixia2156/n/ne15937764d1f?sub_rt=share_pb",
+      "created_at": "2026-07-09",
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "category": "税関"
+    },
+    {
+      "id": 589,
+      "title": "2026年7月【税関】知的財産侵害物品の輸出差止申立て案件完結・新規政令改正関連文書公開｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n5c41b0ab8968?sub_rt=share_pb",
       "created_at": "2026-07-09",
       "period_start": "2026-07-08",
       "period_end": "2026-07-08",
