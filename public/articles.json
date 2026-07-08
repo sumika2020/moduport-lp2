@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 273,
+    "total_articles": 274,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-08",
       "period_end": "2026-07-09",
       "category": "食品"
+    },
+    {
+      "id": 608,
+      "title": "2026年7月【環境省】農薬登録基準値パブリックコメント募集開始｜生活環境動植物被害防止と水質汚濁対策の輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/ne0c78dd82d30?sub_rt=share_pb",
+      "created_at": "2026-07-09",
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-09",
+      "category": "環境省"
     },
     {
       "id": 588,
