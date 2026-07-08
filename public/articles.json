@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 275,
+    "total_articles": 276,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-07-08",
       "period_end": "2026-07-08",
       "category": "財務省"
+    },
+    {
+      "id": 605,
+      "title": "2009年2月【財務省・税関】関税法施行規則改正 郵便物課税手続き・認定製造者制度・輸入申告書の変更点まとめ｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n4a7a3e30ed27?sub_rt=share_pb",
+      "created_at": "2026-07-09",
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "category": "税関"
     },
     {
       "id": 588,
