@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 296,
+    "total_articles": 297,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -49,6 +49,15 @@
       "id": 613,
       "title": "2026年7月【税関】日チリ・マレーシア・メキシコ・シンガポール EPA税率表更新｜統計細分施行日延期と輸入実務への影響",
       "note_url": "https://note.com/prime_ixia2156/n/n89a8f71b957c?sub_rt=share_pb",
+      "created_at": "2026-07-10",
+      "period_start": "2026-07-09",
+      "period_end": "2026-07-09",
+      "category": "税関"
+    },
+    {
+      "id": 612,
+      "title": "【税関】2026年7月9日 日本EPA統計細分表一括更新｜オーストラリア・ペルー・インド・ベトナム・スイス・フィリピン・アセアン・ブルネイ・インドネシア・タイ 適用開始日延期と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/nad95819adb04?sub_rt=share_pb",
       "created_at": "2026-07-10",
       "period_start": "2026-07-09",
       "period_end": "2026-07-09",
