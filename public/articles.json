@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 293,
+    "total_articles": 294,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-09",
       "period_end": "2026-07-09",
       "category": "その他"
+    },
+    {
+      "id": 615,
+      "title": "2026年7月【財務省】令和8年度税制改正解説資料・国際証券投資統計・関税法政令改正の公開｜輸入実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n5cd0312d22c3?sub_rt=share_pb",
+      "created_at": "2026-07-10",
+      "period_start": "2026-07-09",
+      "period_end": "2026-07-09",
+      "category": "財務省"
     },
     {
       "id": 610,
