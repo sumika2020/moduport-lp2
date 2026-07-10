@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 300,
+    "total_articles": 301,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-07-10",
       "period_end": "2026-07-11",
       "category": "その他"
+    },
+    {
+      "id": 618,
+      "title": "2026年7月【税関】知的財産侵害物品差止申立て・評価申告制度・ニッケル系ステンレス鋼板の最新変更｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/na461d5c78e89?sub_rt=share_pb",
+      "created_at": "2026-07-11",
+      "period_start": "2026-07-10",
+      "period_end": "2026-07-10",
+      "category": "税関"
     },
     {
       "id": 616,
