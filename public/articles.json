@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 301,
+    "total_articles": 302,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-07-10",
       "period_end": "2026-07-10",
       "category": "税関"
+    },
+    {
+      "id": 617,
+      "title": "【厚労省】2026年7月 輸入食品監視・停止措置情報ページ更新｜古い会議案内削除とアーカイブ整理",
+      "note_url": "https://note.com/prime_ixia2156/n/n72d5bfd97a12?sub_rt=share_pb",
+      "created_at": "2026-07-11",
+      "period_start": "2026-07-10",
+      "period_end": "2026-07-11",
+      "category": "食品"
     },
     {
       "id": 616,
