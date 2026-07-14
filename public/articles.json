@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 305,
+    "total_articles": 306,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-13",
       "period_end": "2026-07-14",
       "category": "食品"
+    },
+    {
+      "id": 625,
+      "title": "2026年7月【税関】知的財産侵害物品の差止申立て状況更新｜リコー商標権申立ての解除と新規申立て受理",
+      "note_url": "https://note.com/prime_ixia2156/n/nff3d66097ca4?sub_rt=share_pb",
+      "created_at": "2026-07-14",
+      "period_start": "2026-07-13",
+      "period_end": "2026-07-13",
+      "category": "税関"
     },
     {
       "id": 623,
