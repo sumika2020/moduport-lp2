@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 306,
+    "total_articles": 307,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-07-13",
       "period_end": "2026-07-13",
       "category": "税関"
+    },
+    {
+      "id": 624,
+      "title": "2026年7月【e-Gov・財務省】医療機器輸入許認可基準・電波法改正パブリックコメント募集｜輸入実務への影響と対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/na9ea9704362a?sub_rt=share_pb",
+      "created_at": "2026-07-14",
+      "period_start": "2026-07-13",
+      "period_end": "2026-07-14",
+      "category": "財務省"
     },
     {
       "id": 623,
