@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 309,
+    "total_articles": 310,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-07-15",
       "period_end": "2026-07-15",
       "category": "食品"
+    },
+    {
+      "id": 627,
+      "title": "2026年7月【税関】知的財産侵害物品の差止申立て受理前公表廃止・関税定率法改正通達｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n47aaaa8c7600?sub_rt=share_pb",
+      "created_at": "2026-07-15",
+      "period_start": "2026-07-14",
+      "period_end": "2026-07-14",
+      "category": "税関"
     },
     {
       "id": 626,
