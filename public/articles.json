@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 308,
+    "total_articles": 309,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-14",
       "period_end": "2026-07-15",
       "category": "その他"
+    },
+    {
+      "id": 628,
+      "title": "2026年7月【消費者庁】食品表示基準・機能性表示食品制度の最新情報｜輸入食品事業者向け変更点まとめ",
+      "note_url": "https://note.com/prime_ixia2156/n/n6b0b91e24c8d?sub_rt=share_pb",
+      "created_at": "2026-07-15",
+      "period_start": "2026-07-15",
+      "period_end": "2026-07-15",
+      "category": "食品"
     },
     {
       "id": 626,
