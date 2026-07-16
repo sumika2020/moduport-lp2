@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 313,
+    "total_articles": 314,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-07-15",
       "period_end": "2026-07-16",
       "category": "税関"
+    },
+    {
+      "id": 630,
+      "title": "【消費者庁】2026年7月 食品ロス削減啓発資料・入札公告の新規公開｜輸入食品実務への直接影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/n5a6e3ed7369b?sub_rt=share_pb",
+      "created_at": "2026-07-16",
+      "period_start": "2026-07-16",
+      "period_end": "2026-07-16",
+      "category": "食品"
     },
     {
       "id": 629,
