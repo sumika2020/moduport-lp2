@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 311,
+    "total_articles": 312,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-15",
       "period_end": "2026-07-16",
       "category": "食品"
+    },
+    {
+      "id": 632,
+      "title": "2026年7月【e-Gov パブリックコメント】個人情報保護・医薬品輸入・下水道法改正の意見募集｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n0cd5c1abc208?sub_rt=share_pb",
+      "created_at": "2026-07-16",
+      "period_start": "2026-07-15",
+      "period_end": "2026-07-16",
+      "category": "その他"
     },
     {
       "id": 629,
