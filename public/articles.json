@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 312,
+    "total_articles": 313,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-07-15",
       "period_end": "2026-07-16",
       "category": "その他"
+    },
+    {
+      "id": 631,
+      "title": "2026年7月【税関】知的財産侵害物品の輸入差止申立て新規受理・対象品目拡大｜バーナー・ヘッドホン等の輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n50d6d1ec8b4f?sub_rt=share_pb",
+      "created_at": "2026-07-16",
+      "period_start": "2026-07-15",
+      "period_end": "2026-07-16",
+      "category": "税関"
     },
     {
       "id": 629,
