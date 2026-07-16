@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 310,
+    "total_articles": 311,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 633,
+      "title": "2026年7月【厚労省】輸入食品監視部会の最新資料公開｜食品衛生審議会の動向と輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n93d48a7100a5?sub_rt=share_pb",
+      "created_at": "2026-07-16",
+      "period_start": "2026-07-15",
+      "period_end": "2026-07-16",
+      "category": "食品"
+    },
     {
       "id": 629,
       "title": "2026年7月【輸入実務関連】EU鉄鋼セーフガード後継措置・医薬品輸入規制改正・JETRO通商情報の最新動向",
