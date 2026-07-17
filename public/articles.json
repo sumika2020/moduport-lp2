@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 317,
+    "total_articles": 318,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-07-16",
       "period_end": "2026-07-16",
       "category": "税関"
+    },
+    {
+      "id": 634,
+      "title": "2026年7月【e-Gov・財務省】パブリックコメント募集案件の追加・削除と統計データ月次更新｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nf48d59cd5e58?sub_rt=share_pb",
+      "created_at": "2026-07-17",
+      "period_start": "2026-07-16",
+      "period_end": "2026-07-17",
+      "category": "財務省"
     },
     {
       "id": 633,
