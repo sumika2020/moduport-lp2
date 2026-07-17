@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 315,
+    "total_articles": 316,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-16",
       "period_end": "2026-07-17",
       "category": "その他"
+    },
+    {
+      "id": 636,
+      "title": "2026年7月【厚労省】インド産モリンガ（ワサビノキ）検査命令発令｜輸入食品の検査義務化と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/na4bda3a9fd60?sub_rt=share_pb",
+      "created_at": "2026-07-17",
+      "period_start": "2026-07-16",
+      "period_end": "2026-07-17",
+      "category": "食品"
     },
     {
       "id": 633,
