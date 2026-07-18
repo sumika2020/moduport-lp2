@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 320,
+    "total_articles": 321,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -31,6 +31,15 @@
       "id": 642,
       "title": "2026年7月【消費者庁】食品表示基準改正・消費者委員会諮問｜輸入食品の表示対応と実務への影響確認ポイント",
       "note_url": "https://note.com/prime_ixia2156/n/nef44df11fb3a?sub_rt=share_pb",
+      "created_at": "2026-07-18",
+      "period_start": "2026-07-17",
+      "period_end": "2026-07-18",
+      "category": "食品"
+    },
+    {
+      "id": 641,
+      "title": "【厚労省】2026年7月 輸入食品監視情報ページ更新・過去会議資料削除と新規PDF文書の公開｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n34a1c6cf907b?sub_rt=share_pb",
       "created_at": "2026-07-18",
       "period_start": "2026-07-17",
       "period_end": "2026-07-18",
