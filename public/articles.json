@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 319,
+    "total_articles": 320,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-17",
       "period_end": "2026-07-18",
       "category": "税関"
+    },
+    {
+      "id": 642,
+      "title": "2026年7月【消費者庁】食品表示基準改正・消費者委員会諮問｜輸入食品の表示対応と実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nef44df11fb3a?sub_rt=share_pb",
+      "created_at": "2026-07-18",
+      "period_start": "2026-07-17",
+      "period_end": "2026-07-18",
+      "category": "食品"
     },
     {
       "id": 637,
