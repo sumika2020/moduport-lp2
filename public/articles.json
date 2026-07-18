@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 321,
+    "total_articles": 322,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-07-17",
       "period_end": "2026-07-18",
       "category": "食品"
+    },
+    {
+      "id": 640,
+      "title": "2026年7月【財務省】関税局・税関関連の広報資料・人事異動発令｜輸入実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n5d9dfa1bb1d5?sub_rt=share_pb",
+      "created_at": "2026-07-18",
+      "period_start": "2026-07-17",
+      "period_end": "2026-07-17",
+      "category": "税関"
     },
     {
       "id": 637,
