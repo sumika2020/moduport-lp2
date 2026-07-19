@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 323,
+    "total_articles": 324,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 644,
+      "title": "【税関】2026年5月 知的財産侵害物品の輸出差止申立て案件終了｜リコー製トナーカートリッジ規制解除と輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nbefc660aa258?sub_rt=share_pb",
+      "created_at": "2026-07-19",
+      "period_start": "2026-07-18",
+      "period_end": "2026-07-19",
+      "category": "税関"
+    },
     {
       "id": 643,
       "title": "2026年7月【税関】知的財産侵害物品の輸入差止申立て受理状況が更新｜横浜ゴム・セレス・イヴ・サン・ローランが新規追加",
