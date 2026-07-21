@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 325,
+    "total_articles": 326,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 647,
+      "title": "2026年7月【e-Gov】重要電子計算機不正行為防止法・小型家電リサイクル制度パブリックコメント受付開始｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n238d28d05a1b?sub_rt=share_pb",
+      "created_at": "2026-07-21",
+      "period_start": "2026-07-21",
+      "period_end": "2026-07-21",
+      "category": "その他"
+    },
     {
       "id": 645,
       "title": "2026年7月【税関】輸入差止状況の重要変更｜商標権侵害物品の申立て取り下げと現在受付状況の明示",
