@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 333,
+    "total_articles": 334,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -24,6 +24,15 @@
       "note_url": "https://note.com/prime_ixia2156/n/nf2e67feba8d7?sub_rt=share_pb",
       "created_at": "2026-07-23",
       "period_start": "2026-07-22",
+      "period_end": "2026-07-23",
+      "category": "その他"
+    },
+    {
+      "id": 657,
+      "title": "2026年7月【日本商工会議所】日ペルーEPA原産地証明書PDF発給開始・第一種特定原産地証明書新システム移行｜輸入申告手続きへの影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n8a0e56456cc7?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-23",
       "period_end": "2026-07-23",
       "category": "その他"
     },
