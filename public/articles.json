@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 336,
+    "total_articles": 337,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -53,6 +53,15 @@
       "period_start": "2026-07-22",
       "period_end": "2026-07-22",
       "category": "税関"
+    },
+    {
+      "id": 654,
+      "title": "2026年7月【厚労省】輸入食品衛生監視部会の配付資料公開・検査命令情報の掲載順序変更｜輸入食品規制の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/nf822eb8df60a?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-22",
+      "period_end": "2026-07-23",
+      "category": "食品"
     },
     {
       "id": 652,
