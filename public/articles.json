@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 334,
+    "total_articles": 335,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-07-23",
       "period_end": "2026-07-23",
       "category": "その他"
+    },
+    {
+      "id": 656,
+      "title": "2026年7月【税関】知的財産侵害物品の差止申立更新｜サンリオ・シール商標権が新規追加、輸入申告時の確認事項",
+      "note_url": "https://note.com/prime_ixia2156/n/ne0ac159525b2?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-22",
+      "period_end": "2026-07-22",
+      "category": "税関"
     },
     {
       "id": 652,
