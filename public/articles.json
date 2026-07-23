@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 328,
+    "total_articles": 329,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-21",
       "period_end": "2026-07-22",
       "category": "食品"
+    },
+    {
+      "id": 651,
+      "title": "2026年7月【総務省・財務省】電気通信規制強化・地方税法改正・IoT機器セキュリティ対策パブコメ結果｜輸入実務への影響と注視ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nd980bc95bd86?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-21",
+      "period_end": "2026-07-22",
+      "category": "財務省"
     },
     {
       "id": 647,
