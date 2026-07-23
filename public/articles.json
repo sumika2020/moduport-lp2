@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 335,
+    "total_articles": 336,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -40,6 +40,15 @@
       "id": 656,
       "title": "2026年7月【税関】知的財産侵害物品の差止申立更新｜サンリオ・シール商標権が新規追加、輸入申告時の確認事項",
       "note_url": "https://note.com/prime_ixia2156/n/ne0ac159525b2?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-22",
+      "period_end": "2026-07-22",
+      "category": "税関"
+    },
+    {
+      "id": 655,
+      "title": "2026年7月【税関】知的財産侵害物品の差止申立受理状況変更・貿易統計速報・外国為替相場公示の最新情報｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/ne07824a1d534?sub_rt=share_pb",
       "created_at": "2026-07-23",
       "period_start": "2026-07-22",
       "period_end": "2026-07-22",
