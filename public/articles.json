@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 327,
+    "total_articles": 328,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 652,
+      "title": "2026年7月【厚労省・JETRO】輸入食品の健康被害対応強化・米国関税軽減措置・EU補助金規則改正｜輸入実務への影響と対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n7388d2c7cd3e?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-21",
+      "period_end": "2026-07-22",
+      "category": "食品"
+    },
     {
       "id": 647,
       "title": "2026年7月【e-Gov】重要電子計算機不正行為防止法・小型家電リサイクル制度パブリックコメント受付開始｜輸入実務への影響確認",
