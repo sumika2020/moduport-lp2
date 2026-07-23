@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 331,
+    "total_articles": 332,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -51,6 +51,15 @@
       "note_url": "https://note.com/prime_ixia2156/n/n70c411ffd072?sub_rt=share_pb",
       "created_at": "2026-07-23",
       "period_start": "2026-07-21",
+      "period_end": "2026-07-22",
+      "category": "税関"
+    },
+    {
+      "id": 648,
+      "title": "2026年7月【財務省税関】選考採用試験課題・関税審議会資料の公開｜輸入実務担当者向け最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/n3c765bb930f4?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-22",
       "period_end": "2026-07-22",
       "category": "税関"
     },
