@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 332,
+    "total_articles": 333,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 658,
+      "title": "2026年7月【e-Gov・JETRO・消費者庁】国土交通省供給確保計画認定省令改正・米国追加関税（カナダ50%・ブラジル25%）・IMO海洋環境規制｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nf2e67feba8d7?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-22",
+      "period_end": "2026-07-23",
+      "category": "その他"
+    },
     {
       "id": 652,
       "title": "2026年7月【厚労省・JETRO】輸入食品の健康被害対応強化・米国関税軽減措置・EU補助金規則改正｜輸入実務への影響と対応ポイント",
