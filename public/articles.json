@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 329,
+    "total_articles": 330,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-07-21",
       "period_end": "2026-07-22",
       "category": "財務省"
+    },
+    {
+      "id": 650,
+      "title": "2026年7月【消費者庁】食品表示基準ページ更新｜機能性表示食品届出データベース最新情報と食品表示懇談会情報の変更",
+      "note_url": "https://note.com/prime_ixia2156/n/n1c043aafd029?sub_rt=share_pb",
+      "created_at": "2026-07-23",
+      "period_start": "2026-07-21",
+      "period_end": "2026-07-22",
+      "category": "食品"
     },
     {
       "id": 647,
