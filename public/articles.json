@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 340,
+    "total_articles": 341,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -31,6 +31,15 @@
       "id": 660,
       "title": "2026年7月【財務省】電解二酸化マンガン暫定不当廉売関税政令｜輸入申告時の関税率確認ポイント",
       "note_url": "https://note.com/prime_ixia2156/n/n64a521a5835b?sub_rt=share_pb",
+      "created_at": "2026-07-24",
+      "period_start": "2026-07-23",
+      "period_end": "2026-07-23",
+      "category": "財務省"
+    },
+    {
+      "id": 659,
+      "title": "【財務省】2026年7月 不当廉売関税・セーフガード関連政令10件 黒鉛電極・炭酸二カリウム・ポリエチレンテレフタレート・水酸化カリウムの輸入申告への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n56bb5a24c96a?sub_rt=share_pb",
       "created_at": "2026-07-24",
       "period_start": "2026-07-23",
       "period_end": "2026-07-23",
