@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 346,
+    "total_articles": 347,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -62,6 +62,15 @@
       "period_start": "2026-07-24",
       "period_end": "2026-07-24",
       "category": "財務省"
+    },
+    {
+      "id": 662,
+      "title": "2026年7月【e-Gov パブリックコメント】農地法・種苗法施行規則改正案・経産省統計調査規則改正案｜輸入実務への影響と受付期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n99acb1ef7475?sub_rt=share_pb",
+      "created_at": "2026-07-25",
+      "period_start": "2026-07-24",
+      "period_end": "2026-07-25",
+      "category": "経産省"
     },
     {
       "id": 661,
