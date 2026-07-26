@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 349,
+    "total_articles": 350,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -31,6 +31,15 @@
       "id": 669,
       "title": "2026年7月【消費者庁】食品表示基準・景品表示法関連文書6件公開｜輸入食品の表示対応と実務への影響",
       "note_url": "https://note.com/prime_ixia2156/n/n0e2d8a515ee6?sub_rt=share_pb",
+      "created_at": "2026-07-26",
+      "period_start": "2026-07-24",
+      "period_end": "2026-07-24",
+      "category": "食品"
+    },
+    {
+      "id": 668,
+      "title": "【消費者庁】2023年11月 消費者教育推進会議関連文書10件の初回検知｜輸入食品表示・消費者教育施策の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/nc53db9daedf8?sub_rt=share_pb",
       "created_at": "2026-07-26",
       "period_start": "2026-07-24",
       "period_end": "2026-07-24",
