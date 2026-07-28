@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 351,
+    "total_articles": 352,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 672,
+      "title": "【JETRO】2026年7月 米国トランプ政権の関税政策10件の最新報告書｜日本からの輸入品への追加関税・通商拡大法232条・301条調査の詳細",
+      "note_url": "https://note.com/prime_ixia2156/n/nc0437e0a74c0?sub_rt=share_pb",
+      "created_at": "2026-07-28",
+      "period_start": "2026-07-27",
+      "period_end": "2026-07-27",
+      "category": "その他"
+    },
     {
       "id": 671,
       "title": "2026年7月【農林水産省】肥料供給確保計画の省令改正パブリックコメント開始｜輸入実務への影響と意見募集期限",
