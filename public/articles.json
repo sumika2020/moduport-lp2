@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 359,
+    "total_articles": 360,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-29",
       "period_end": "2026-07-30",
       "category": "食品"
+    },
+    {
+      "id": 682,
+      "title": "2026年7月【日本商工会議所】第一種特定原産地証明書 新発給システム移行 説明会開催・体験サイト再公開｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nde184a63cf29?sub_rt=share_pb",
+      "created_at": "2026-07-30",
+      "period_start": "2026-07-30",
+      "period_end": "2026-07-30",
+      "category": "その他"
     },
     {
       "id": 679,
