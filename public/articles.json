@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 367,
+    "total_articles": 368,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-07-31",
       "period_end": "2026-07-31",
       "category": "その他"
+    },
+    {
+      "id": 695,
+      "title": "2026年7月31日【消費者庁・厚労省・日本商工会議所】輸入食品放射性物質表示基準・食品衛生法検討・原産地証明書システム移行の最新情報｜輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n500e53dc79ef?sub_rt=share_pb",
+      "created_at": "2026-08-01",
+      "period_start": "2026-08-01",
+      "period_end": "2026-08-01",
+      "category": "食品"
     },
     {
       "id": 688,
