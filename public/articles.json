@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 372,
+    "total_articles": 373,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -71,6 +71,15 @@
       "period_start": "2026-07-31",
       "period_end": "2026-08-01",
       "category": "その他"
+    },
+    {
+      "id": 690,
+      "title": "2026年7月【税関】関税率表解説・分類例規改正（令和8年9月1日施行）＋熊本地震特例措置｜輸入申告・品目分類への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n7f1e84da561e?sub_rt=share_pb",
+      "created_at": "2026-08-01",
+      "period_start": "2026-07-31",
+      "period_end": "2026-07-31",
+      "category": "税関"
     },
     {
       "id": 688,
