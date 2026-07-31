@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 362,
+    "total_articles": 363,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 688,
+      "title": "2026年7月【JETRO・日本商工会議所・海事業界】輸入実務関連ニュース更新｜原産地証明書セミナー・港湾リスク・通商動向の最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/nae2d3cc31c83?sub_rt=share_pb",
+      "created_at": "2026-07-31",
+      "period_start": "2026-07-30",
+      "period_end": "2026-07-31",
+      "category": "その他"
+    },
     {
       "id": 683,
       "title": "2026年7月【消費者庁・農水省】食品表示基準改正・熊本地震対応の弾力的運用｜輸入食品の表示適合性と通関手続きへの影響",
