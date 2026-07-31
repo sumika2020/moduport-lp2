@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 373,
+    "total_articles": 374,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -79,6 +79,15 @@
       "created_at": "2026-08-01",
       "period_start": "2026-07-31",
       "period_end": "2026-07-31",
+      "category": "税関"
+    },
+    {
+      "id": 689,
+      "title": "2026年7月31日【税関】輸入申告書様式・運送場所識別ルール大幅改正｜プラットフォーム名称記入義務化と手続き変更への対応",
+      "note_url": "https://note.com/prime_ixia2156/n/na92667e66269?sub_rt=share_pb",
+      "created_at": "2026-08-01",
+      "period_start": "2026-07-31",
+      "period_end": "2026-08-01",
       "category": "税関"
     },
     {
