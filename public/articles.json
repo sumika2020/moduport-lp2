@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 378,
+    "total_articles": 379,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-08-03",
       "period_end": "2026-08-03",
       "category": "税関"
+    },
+    {
+      "id": 699,
+      "title": "2026年8月【e-Gov パブリックコメント】出入国管理法施行規則改正案・道路運送法施行規則削除｜輸入実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n7c645d3aad57?sub_rt=share_pb",
+      "created_at": "2026-08-04",
+      "period_start": "2026-08-03",
+      "period_end": "2026-08-04",
+      "category": "その他"
     },
     {
       "id": 698,
