@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 382,
+    "total_articles": 383,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-08-04",
       "period_end": "2026-08-04",
       "category": "税関"
+    },
+    {
+      "id": 702,
+      "title": "2026年8月【財務省・e-Gov】出入国管理法施行規則改正・溶融亜鉛めっき鋼帯への暫定不当廉売関税決定｜輸入実務への影響と対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nd994793b9a18?sub_rt=share_pb",
+      "created_at": "2026-08-05",
+      "period_start": "2026-08-04",
+      "period_end": "2026-08-05",
+      "category": "財務省"
     },
     {
       "id": 701,
