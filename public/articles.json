@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 384,
+    "total_articles": 385,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-05",
       "period_end": "2026-08-06",
       "category": "税関"
+    },
+    {
+      "id": 709,
+      "title": "2026年8月【消費者庁】食品表示基準・機能性表示食品制度の最新情報｜輸入食品表示対応と訪問買取トラブル注意喚起",
+      "note_url": "https://note.com/prime_ixia2156/n/nc7e4dbe363d2?sub_rt=share_pb",
+      "created_at": "2026-08-06",
+      "period_start": "2026-08-06",
+      "period_end": "2026-08-06",
+      "category": "食品"
     },
     {
       "id": 705,
