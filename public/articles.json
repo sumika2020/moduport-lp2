@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 389,
+    "total_articles": 390,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 716,
       "title": "2026年8月【輸入実務への影響】消費者庁食品表示基準・機能性表示食品データベース更新｜輸入食品の表示対応と通関手続き",
       "note_url": "https://note.com/prime_ixia2156/n/n6de63e206f58?sub_rt=share_pb",
+      "created_at": "2026-08-07",
+      "period_start": "2026-08-06",
+      "period_end": "2026-08-07",
+      "category": "食品"
+    },
+    {
+      "id": 715,
+      "title": "2026年8月【厚労省】輸入食品・医薬品成分リスト更新｜コーデックス協議会開催案内と医薬品的効能効果判定基準の最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/nff540a27b7d6?sub_rt=share_pb",
       "created_at": "2026-08-07",
       "period_start": "2026-08-06",
       "period_end": "2026-08-07",
