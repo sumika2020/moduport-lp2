@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 393,
+    "total_articles": 394,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -58,6 +58,15 @@
       "id": 712,
       "title": "2026年8月【税関】輸入通関パンフレット全10文書更新｜AEO制度・統計データ・密輸取締り最新情報",
       "note_url": "https://note.com/prime_ixia2156/n/n41df73b01e14?sub_rt=share_pb",
+      "created_at": "2026-08-07",
+      "period_start": "2026-08-06",
+      "period_end": "2026-08-06",
+      "category": "税関"
+    },
+    {
+      "id": 711,
+      "title": "2026年8月【税関】日本税関報告書全10版更新｜施行日2026年4月・AEO認定数・統計データ変更と輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n8b2554edddd9?sub_rt=share_pb",
       "created_at": "2026-08-07",
       "period_start": "2026-08-06",
       "period_end": "2026-08-06",
