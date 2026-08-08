@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 407,
+    "total_articles": 408,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -134,6 +134,15 @@
       "period_start": "2026-08-07",
       "period_end": "2026-08-07",
       "category": "財務省"
+    },
+    {
+      "id": 719,
+      "title": "2026年8月【税関】知的財産侵害物品の差止申立て撤回・溶融亜鉛めっき鋼帯の輸入規制新設｜輸入実務への影響と対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n1776ddbd9ff9?sub_rt=share_pb",
+      "created_at": "2026-08-08",
+      "period_start": "2026-08-07",
+      "period_end": "2026-08-07",
+      "category": "税関"
     },
     {
       "id": 716,
