@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 397,
+    "total_articles": 398,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -43,6 +43,15 @@
       "created_at": "2026-08-08",
       "period_start": "2026-08-07",
       "period_end": "2026-08-08",
+      "category": "税関"
+    },
+    {
+      "id": 729,
+      "title": "2026年8月【財務省・税関】現金等携帯輸出入申告手続き明確化・溶融亜鉛めっき鋼帯規制・輸入統計品目表改正｜実務対応ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n866cd9127244?sub_rt=share_pb",
+      "created_at": "2026-08-08",
+      "period_start": "2026-08-07",
+      "period_end": "2026-08-07",
       "category": "税関"
     },
     {
