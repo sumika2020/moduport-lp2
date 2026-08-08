@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 396,
+    "total_articles": 397,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-08-07",
       "period_end": "2026-08-07",
       "category": "環境省"
+    },
+    {
+      "id": 730,
+      "title": "2026年8月【財務省・税関】東京税関長人事異動・関税率表政令改正｜輸入通関行政の運用方針変化に注視",
+      "note_url": "https://note.com/prime_ixia2156/n/ndf5c9ea3fe7c?sub_rt=share_pb",
+      "created_at": "2026-08-08",
+      "period_start": "2026-08-07",
+      "period_end": "2026-08-08",
+      "category": "税関"
     },
     {
       "id": 716,
