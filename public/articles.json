@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 395,
+    "total_articles": 396,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-07",
       "period_end": "2026-08-08",
       "category": "食品"
+    },
+    {
+      "id": 731,
+      "title": "2026年8月【環境省】特定外来生物防除等対策事業の予算再編成と中間執行団体導入｜交付スキーム変更が自治体申請手続きに影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n1d5642665b60?sub_rt=share_pb",
+      "created_at": "2026-08-08",
+      "period_start": "2026-08-07",
+      "period_end": "2026-08-07",
+      "category": "環境省"
     },
     {
       "id": 716,
