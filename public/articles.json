@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 412,
+    "total_articles": 413,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 739,
+      "title": "2026年8月【NACCS・日本商工会議所・環境省】輸入実務関連ドキュメント10件の公開・更新｜EPA原産地証明書・調達情報・食品監視の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/ncd56e684c80c?sub_rt=share_pb",
+      "created_at": "2026-08-11",
+      "period_start": "2026-08-10",
+      "period_end": "2026-08-11",
+      "category": "食品"
+    },
     {
       "id": 734,
       "title": "2026年8月【税関】知的財産侵害物品の輸出差止申立て状況変更｜リコー製トナーカートリッジ差止案件の取下げ・期間満了の可能性と輸出実務への影響",
