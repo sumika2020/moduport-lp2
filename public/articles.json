@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 415,
+    "total_articles": 416,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-08-10",
       "period_end": "2026-08-11",
       "category": "財務省"
+    },
+    {
+      "id": 736,
+      "title": "2026年8月【税関】運び屋啓発パンフレット・知的財産侵害物品対策・金密輸防止の改訂内容と実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nfbe56459febe?sub_rt=share_pb",
+      "created_at": "2026-08-11",
+      "period_start": "2026-08-10",
+      "period_end": "2026-08-10",
+      "category": "税関"
     },
     {
       "id": 734,
