@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 416,
+    "total_articles": 417,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -49,6 +49,15 @@
       "id": 736,
       "title": "2026年8月【税関】運び屋啓発パンフレット・知的財産侵害物品対策・金密輸防止の改訂内容と実務への影響",
       "note_url": "https://note.com/prime_ixia2156/n/nfbe56459febe?sub_rt=share_pb",
+      "created_at": "2026-08-11",
+      "period_start": "2026-08-10",
+      "period_end": "2026-08-10",
+      "category": "税関"
+    },
+    {
+      "id": 735,
+      "title": "2026年8月【税関】輸入通関パンフレット・密輸情報提供サイト・EPA原産地規則の重要更新｜密輸ダイアル情報提供ルート変更・PDF原産地証明書発給開始・AEO相互承認国拡大",
+      "note_url": "https://note.com/prime_ixia2156/n/nf5fbc80caae8?sub_rt=share_pb",
       "created_at": "2026-08-11",
       "period_start": "2026-08-10",
       "period_end": "2026-08-10",
