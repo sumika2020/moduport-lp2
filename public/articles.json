@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 424,
+    "total_articles": 425,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-08-13",
       "period_end": "2026-08-13",
       "category": "食品"
+    },
+    {
+      "id": 744,
+      "title": "2026年8月【環境省】クマ人身被害統計データ更新｜令和8年度都道府県別被害件数の最新集計",
+      "note_url": "https://note.com/prime_ixia2156/n/n5ad578b8a058?sub_rt=share_pb",
+      "created_at": "2026-08-14",
+      "period_start": "2026-08-13",
+      "period_end": "2026-08-13",
+      "category": "環境省"
     },
     {
       "id": 743,
