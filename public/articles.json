@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 425,
+    "total_articles": 426,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 750,
+      "title": "2026年8月【厚労省・JETRO・消費者庁】輸入食品監視・通商動向・機能性表示食品の最新情報｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n34252739a98d?sub_rt=share_pb",
+      "created_at": "2026-08-15",
+      "period_start": "2026-08-14",
+      "period_end": "2026-08-15",
+      "category": "食品"
+    },
     {
       "id": 747,
       "title": "2026年8月【財務省・JETRO】熊本地震対応関税措置・ウズベキスタン市場調査・通商交渉動向｜輸入実務への影響と最新情報",
