@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 427,
+    "total_articles": 428,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-08-14",
       "period_end": "2026-08-14",
       "category": "税関"
+    },
+    {
+      "id": 748,
+      "title": "2026年8月【e-Gov パブリックコメント】再生可能エネルギー・労働法・ガスシステム改革の規制案件更新｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n5b057d7423a6?sub_rt=share_pb",
+      "created_at": "2026-08-15",
+      "period_start": "2026-08-14",
+      "period_end": "2026-08-15",
+      "category": "経産省"
     },
     {
       "id": 747,
