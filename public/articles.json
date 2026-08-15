@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 426,
+    "total_articles": 427,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-14",
       "period_end": "2026-08-15",
       "category": "食品"
+    },
+    {
+      "id": 749,
+      "title": "2026年8月【税関】RCEP協定原産地証明手続改正・韓国が自己申告制度対象国に追加｜輸入実務への影響と知的財産侵害物品差止状況",
+      "note_url": "https://note.com/prime_ixia2156/n/n3789d4ba9668?sub_rt=share_pb",
+      "created_at": "2026-08-15",
+      "period_start": "2026-08-14",
+      "period_end": "2026-08-14",
+      "category": "税関"
     },
     {
       "id": 747,
