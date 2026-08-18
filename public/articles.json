@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 432,
+    "total_articles": 433,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-08-17",
       "period_end": "2026-08-17",
       "category": "税関"
+    },
+    {
+      "id": 757,
+      "title": "2026年8月【国税庁・JETRO・厚生労働省】インボイス制度旧資料削除・米中輸出規制ワークショップ・キャリア形成支援の最新情報｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nb755117fd163?sub_rt=share_pb",
+      "created_at": "2026-08-18",
+      "period_start": "2026-08-18",
+      "period_end": "2026-08-18",
+      "category": "その他"
     },
     {
       "id": 752,
