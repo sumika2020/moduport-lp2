@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 434,
+    "total_articles": 435,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-18",
       "period_end": "2026-08-19",
       "category": "環境省"
+    },
+    {
+      "id": 762,
+      "title": "2026年8月【税関】インドネシア協定改正・かつお節品目証明書要件追加｜EPA原産地規則の重要変更と輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nf9ee9ac980d1?sub_rt=share_pb",
+      "created_at": "2026-08-19",
+      "period_start": "2026-08-18",
+      "period_end": "2026-08-18",
+      "category": "税関"
     },
     {
       "id": 759,
