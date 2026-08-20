@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 437,
+    "total_articles": 438,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 768,
+      "title": "2026年8月【環境省・消費者庁】ワシントン条約輸入規制・熊本地震対応文書の初回検知｜輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/ndd63249eb643?sub_rt=share_pb",
+      "created_at": "2026-08-20",
+      "period_start": "2026-08-19",
+      "period_end": "2026-08-20",
+      "category": "環境省"
+    },
     {
       "id": 763,
       "title": "2026年8月【e-Gov・財務省・環境省・JETRO】医薬品指定薬物規制・関税定価変更・CITES輸入規制・通商動向の最新情報｜輸入実務への影響",
