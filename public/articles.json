@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 445,
+    "total_articles": 446,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-08-20",
       "period_end": "2026-08-20",
       "category": "税関"
+    },
+    {
+      "id": 769,
+      "title": "2026年8月【e-Gov パブリックコメント】農薬残留基準改正・陸運規制・地域経済牽引事業の新規案件募集｜輸入食品実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/ncc894044a999?sub_rt=share_pb",
+      "created_at": "2026-08-21",
+      "period_start": "2026-08-20",
+      "period_end": "2026-08-21",
+      "category": "食品"
     },
     {
       "id": 768,
