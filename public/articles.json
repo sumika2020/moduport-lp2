@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 443,
+    "total_articles": 444,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-20",
       "period_end": "2026-08-21",
       "category": "環境省"
+    },
+    {
+      "id": 771,
+      "title": "2026年8月【消費者庁】食品表示基準・製品安全誓約書・Web3消費者トラブル対策の新規文書公開｜輸入食品事業者向け実務ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/nb02dcdd2def3?sub_rt=share_pb",
+      "created_at": "2026-08-21",
+      "period_start": "2026-08-20",
+      "period_end": "2026-08-20",
+      "category": "食品"
     },
     {
       "id": 768,
