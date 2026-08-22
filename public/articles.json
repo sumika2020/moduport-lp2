@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 448,
+    "total_articles": 449,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-08-21",
       "period_end": "2026-08-21",
       "category": "環境省"
+    },
+    {
+      "id": 773,
+      "title": "2026年8月【消費者庁】食品表示基準 輸入食品の産地・添加物表示ルール｜新規解説資料と表示ポリシーページリニューアル",
+      "note_url": "https://note.com/prime_ixia2156/n/na0aedc842e63?sub_rt=share_pb",
+      "created_at": "2026-08-22",
+      "period_start": "2026-08-21",
+      "period_end": "2026-08-21",
+      "category": "食品"
     },
     {
       "id": 772,
