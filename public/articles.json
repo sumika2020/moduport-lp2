@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 453,
+    "total_articles": 454,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-24",
       "period_end": "2026-08-25",
       "category": "食品"
+    },
+    {
+      "id": 784,
+      "title": "【2026年8月】e-Gov パブリックコメント募集案件の追加・変更｜環境影響評価法施行令改正と労働安全衛生規則改正が新規掲載",
+      "note_url": "https://note.com/prime_ixia2156/n/n6f589831def8?sub_rt=share_pb",
+      "created_at": "2026-08-25",
+      "period_start": "2026-08-24",
+      "period_end": "2026-08-25",
+      "category": "その他"
     },
     {
       "id": 779,
