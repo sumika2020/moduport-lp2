@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 457,
+    "total_articles": 458,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -58,6 +58,15 @@
       "id": 781,
       "title": "【2026年8月24日】揮発油税・石油石炭税・たばこ税の申告書様式が更新｜税関手続きで使用する新フォーム10種類",
       "note_url": "https://note.com/prime_ixia2156/n/nc0033de9452f?sub_rt=share_pb",
+      "created_at": "2026-08-25",
+      "period_start": "2026-08-24",
+      "period_end": "2026-08-24",
+      "category": "税関"
+    },
+    {
+      "id": 780,
+      "title": "【2026年8月24日】石油石炭税関連の申請書様式10種類が新規公開｜輸入・納税手続きで確認すべき様式一覧",
+      "note_url": "https://note.com/prime_ixia2156/n/n5d6a12cb5058?sub_rt=share_pb",
       "created_at": "2026-08-25",
       "period_start": "2026-08-24",
       "period_end": "2026-08-24",
