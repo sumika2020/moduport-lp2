@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 452,
+    "total_articles": 453,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 785,
+      "title": "【2026年8月】輸入食品の審議会議事録公開・機能性表示食品届出更新｜厚労省・消費者庁の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/n0afaa81f6426?sub_rt=share_pb",
+      "created_at": "2026-08-25",
+      "period_start": "2026-08-24",
+      "period_end": "2026-08-25",
+      "category": "食品"
+    },
     {
       "id": 779,
       "title": "【2026年8月24日】e-Gov パブリックコメント更新｜出入国管理法改正と環境基準改正が新規募集開始",
