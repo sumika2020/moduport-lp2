@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 455,
+    "total_articles": 456,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-08-24",
       "period_end": "2026-08-24",
       "category": "その他"
+    },
+    {
+      "id": 782,
+      "title": "【2026年8月24日】税関申請書様式10件が新規公開｜輸入たばこ・災害対応・納期延長など実務必須フォーム",
+      "note_url": "https://note.com/prime_ixia2156/n/n47658304bcd0?sub_rt=share_pb",
+      "created_at": "2026-08-25",
+      "period_start": "2026-08-24",
+      "period_end": "2026-08-24",
+      "category": "税関"
     },
     {
       "id": 779,
