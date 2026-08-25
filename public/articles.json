@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 459,
+    "total_articles": 460,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-25",
       "period_end": "2026-08-26",
       "category": "その他"
+    },
+    {
+      "id": 786,
+      "title": "【2026年8月25日】消費者庁が公開した4件の新規文書｜輸入食品表示基準と消費生活用製品安全に関する最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/na518b8e94c39?sub_rt=share_pb",
+      "created_at": "2026-08-26",
+      "period_start": "2026-08-25",
+      "period_end": "2026-08-25",
+      "category": "食品"
     },
     {
       "id": 785,
