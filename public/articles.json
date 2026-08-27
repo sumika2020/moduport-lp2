@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 470,
+    "total_articles": 471,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -62,6 +62,15 @@
       "period_start": "2026-08-27",
       "period_end": "2026-08-27",
       "category": "食品"
+    },
+    {
+      "id": 811,
+      "title": "【2026年8月】消費者庁が公開した地方消費者行政関連文書10件｜輸入実務への直接的な影響なし",
+      "note_url": "https://note.com/prime_ixia2156/n/n76e1ed77a219?sub_rt=share_pb",
+      "created_at": "2026-08-28",
+      "period_start": "2026-08-27",
+      "period_end": "2026-08-27",
+      "category": "その他"
     },
     {
       "id": 793,
