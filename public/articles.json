@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 468,
+    "total_articles": 469,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -40,6 +40,15 @@
       "id": 814,
       "title": "【2026年8月】機能性表示食品の健康被害情報対応が強化｜輸入業者が確認すべき厚生科学審議会の新資料",
       "note_url": "https://note.com/prime_ixia2156/n/n4b9955151ba6?sub_rt=share_pb",
+      "created_at": "2026-08-28",
+      "period_start": "2026-08-28",
+      "period_end": "2026-08-28",
+      "category": "食品"
+    },
+    {
+      "id": 813,
+      "title": "【2026年8月】機能性表示食品の健康被害対応強化｜輸入食品業者が確認すべき食品衛生法の規制措置",
+      "note_url": "https://note.com/prime_ixia2156/n/n21c3be459816?sub_rt=share_pb",
       "created_at": "2026-08-28",
       "period_start": "2026-08-28",
       "period_end": "2026-08-28",
