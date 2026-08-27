@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 471,
+    "total_articles": 472,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -71,6 +71,15 @@
       "period_start": "2026-08-27",
       "period_end": "2026-08-27",
       "category": "その他"
+    },
+    {
+      "id": 810,
+      "title": "【2023年11月】消費者庁の地方消費者行政強化交付金に関する10件の実施要領・交付要綱が新規公開｜輸入食品の産地・添加物表示対応に影響",
+      "note_url": "https://note.com/prime_ixia2156/n/nc671cd828f0b?sub_rt=share_pb",
+      "created_at": "2026-08-28",
+      "period_start": "2026-08-27",
+      "period_end": "2026-08-27",
+      "category": "食品"
     },
     {
       "id": 793,
