@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 461,
+    "total_articles": 462,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-26",
       "period_end": "2026-08-26",
       "category": "食品"
+    },
+    {
+      "id": 792,
+      "title": "【2026年8月26日】輸入差止申立てに任天堂Nintendo Switch 2コントローラが新規追加｜知的財産侵害物品の確認と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/nde2951f21799?sub_rt=share_pb",
+      "created_at": "2026-08-27",
+      "period_start": "2026-08-26",
+      "period_end": "2026-08-27",
+      "category": "その他"
     },
     {
       "id": 787,
