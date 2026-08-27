@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 473,
+    "total_articles": 474,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -87,6 +87,15 @@
       "note_url": "https://note.com/prime_ixia2156/n/n7a2354aeb988?sub_rt=share_pb",
       "created_at": "2026-08-28",
       "period_start": "2026-08-27",
+      "period_end": "2026-08-28",
+      "category": "食品"
+    },
+    {
+      "id": 808,
+      "title": "【2025年4月】消費者庁の地方消費者行政強化交付金通知10件を初めて検知｜輸入食品表示規制の背景にある行政体制整備",
+      "note_url": "https://note.com/prime_ixia2156/n/n8a3dac21d492?sub_rt=share_pb",
+      "created_at": "2026-08-28",
+      "period_start": "2026-08-28",
       "period_end": "2026-08-28",
       "category": "食品"
     },
