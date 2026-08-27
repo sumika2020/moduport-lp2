@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 480,
+    "total_articles": 481,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -152,6 +152,15 @@
       "period_start": "2026-08-28",
       "period_end": "2026-08-28",
       "category": "食品"
+    },
+    {
+      "id": 801,
+      "title": "【2023年11月】消費者庁の地方消費者行政推進交付金に関する10件の文書を検知｜輸入実務への直接的影響は限定的",
+      "note_url": "https://note.com/prime_ixia2156/n/n7f486d2c2ef5?sub_rt=share_pb",
+      "created_at": "2026-08-28",
+      "period_start": "2026-08-28",
+      "period_end": "2026-08-28",
+      "category": "その他"
     },
     {
       "id": 793,
