@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 464,
+    "total_articles": 465,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -53,6 +53,15 @@
       "period_start": "2026-08-26",
       "period_end": "2026-08-26",
       "category": "食品"
+    },
+    {
+      "id": 788,
+      "title": "【2026年8月26日】米国の追加関税措置に関するJETRO報告書10件公開｜日本の輸入実務者向け通商動向情報",
+      "note_url": "https://note.com/prime_ixia2156/n/ncb6f6596673f?sub_rt=share_pb",
+      "created_at": "2026-08-27",
+      "period_start": "2026-08-26",
+      "period_end": "2026-08-26",
+      "category": "その他"
     },
     {
       "id": 787,
