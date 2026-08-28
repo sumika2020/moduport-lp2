@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 492,
+    "total_articles": 493,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -58,6 +58,15 @@
       "id": 821,
       "title": "【2026年8月28日】財務省が月次ニュースレターと予備費使用報告書を公開｜輸入実務関連の最新情報確認",
       "note_url": "https://note.com/prime_ixia2156/n/n14371caa9f7f?sub_rt=share_pb",
+      "created_at": "2026-08-29",
+      "period_start": "2026-08-28",
+      "period_end": "2026-08-28",
+      "category": "財務省"
+    },
+    {
+      "id": 820,
+      "title": "財務省独立行政法人の役職員報酬・給与情報が公開｜2024年〜2026年の複数文書を検知",
+      "note_url": "https://note.com/prime_ixia2156/n/nff03e5bc73f6?sub_rt=share_pb",
       "created_at": "2026-08-29",
       "period_start": "2026-08-28",
       "period_end": "2026-08-28",
