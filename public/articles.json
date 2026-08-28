@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 488,
+    "total_articles": 489,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 825,
       "title": "【2026年8月】米国IEEPA関税還付制度の変更とカナダ水産物除外｜輸入実務に影響する通商動向3件",
       "note_url": "https://note.com/prime_ixia2156/n/n9562cd0b5f1c?sub_rt=share_pb",
+      "created_at": "2026-08-29",
+      "period_start": "2026-08-28",
+      "period_end": "2026-08-29",
+      "category": "その他"
+    },
+    {
+      "id": 824,
+      "title": "【2026年9月】第一種特定原産地証明書システム移行と9月4日～7日メンテナンス｜EPA特恵関税適用に向けた輸入実務の対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n197d82ea197b?sub_rt=share_pb",
       "created_at": "2026-08-29",
       "period_start": "2026-08-28",
       "period_end": "2026-08-29",
