@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 501,
+    "total_articles": 502,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -34,6 +34,15 @@
       "created_at": "2026-09-01",
       "period_start": "2026-08-31",
       "period_end": "2026-09-01",
+      "category": "食品"
+    },
+    {
+      "id": 832,
+      "title": "【2026年8月31日】厚労省幹部名簿の組織改編｜医薬経済統括管理官の新設と医薬品輸入審査体制の変更",
+      "note_url": "https://note.com/prime_ixia2156/n/nb75973c9e0e3?sub_rt=share_pb",
+      "created_at": "2026-09-01",
+      "period_start": "2026-08-31",
+      "period_end": "2026-08-31",
       "category": "食品"
     },
     {
