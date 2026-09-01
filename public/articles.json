@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 503,
+    "total_articles": 504,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -53,6 +53,15 @@
       "period_start": "2026-08-31",
       "period_end": "2026-08-31",
       "category": "その他"
+    },
+    {
+      "id": 830,
+      "title": "【2026年8月31日】HSコード85類・84類・72類ほか税関解説書の大幅改正｜電気機器・機械・繊維製品の分類判定が変わる",
+      "note_url": "https://note.com/prime_ixia2156/n/n3467913b7b48?sub_rt=share_pb",
+      "created_at": "2026-09-01",
+      "period_start": "2026-08-31",
+      "period_end": "2026-08-31",
+      "category": "税関"
     },
     {
       "id": 828,
