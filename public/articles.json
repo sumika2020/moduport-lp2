@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 508,
+    "total_articles": 509,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-09-01",
       "period_end": "2026-09-02",
       "category": "その他"
+    },
+    {
+      "id": 835,
+      "title": "【2026年9月1日】食品表示基準の新着情報更新｜特定保健用食品の表示許可と輸入食品の表示実務",
+      "note_url": "https://note.com/prime_ixia2156/n/nb7fc935e43ac?sub_rt=share_pb",
+      "created_at": "2026-09-02",
+      "period_start": "2026-09-01",
+      "period_end": "2026-09-01",
+      "category": "食品"
     },
     {
       "id": 834,
