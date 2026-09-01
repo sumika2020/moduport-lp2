@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 500,
+    "total_articles": 501,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-08-31",
       "period_end": "2026-09-01",
       "category": "その他"
+    },
+    {
+      "id": 833,
+      "title": "【2026年9月1日】食品衛生法施行規則改正案・PFOS規制が新規公開｜輸入食品・化学品の実務対応と受付期限",
+      "note_url": "https://note.com/prime_ixia2156/n/ndfe011a15546?sub_rt=share_pb",
+      "created_at": "2026-09-01",
+      "period_start": "2026-08-31",
+      "period_end": "2026-09-01",
+      "category": "食品"
     },
     {
       "id": 828,
