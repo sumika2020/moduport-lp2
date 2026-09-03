@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 510,
+    "total_articles": 511,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -25,6 +25,15 @@
       "created_at": "2026-09-03",
       "period_start": "2026-09-02",
       "period_end": "2026-09-03",
+      "category": "その他"
+    },
+    {
+      "id": 840,
+      "title": "【2026年9月】知的財産侵害物品の輸入・輸出差止申立て｜株式会社MTG新規申立てと申立て状況の変更",
+      "note_url": "https://note.com/prime_ixia2156/n/n241bb95638b1?sub_rt=share_pb",
+      "created_at": "2026-09-03",
+      "period_start": "2026-09-02",
+      "period_end": "2026-09-02",
       "category": "その他"
     },
     {
