@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 513,
+    "total_articles": 514,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -25,6 +25,15 @@
       "created_at": "2026-09-04",
       "period_start": "2026-09-03",
       "period_end": "2026-09-04",
+      "category": "その他"
+    },
+    {
+      "id": 842,
+      "title": "【2026年9月】AEO認定通関業者が265者に増加｜認定事業者一覧と知的財産侵害物品差止申立ての最新情報",
+      "note_url": "https://note.com/prime_ixia2156/n/n37531e8c1f55?sub_rt=share_pb",
+      "created_at": "2026-09-04",
+      "period_start": "2026-09-03",
+      "period_end": "2026-09-03",
       "category": "その他"
     },
     {
