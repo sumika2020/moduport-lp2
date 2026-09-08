@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 521,
+    "total_articles": 522,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 853,
+      "title": "【2026年9月】パナマ運河許容喫水引き下げ延期と海事リスク情報の更新｜輸入実務への影響と確認すべき点",
+      "note_url": "https://note.com/prime_ixia2156/n/ne1802a7e5296?sub_rt=share_pb",
+      "created_at": "2026-09-08",
+      "period_start": "2026-09-07",
+      "period_end": "2026-09-08",
+      "category": "その他"
+    },
     {
       "id": 850,
       "title": "【2026年5月28日】税関の知的財産侵害物品差止申立て｜リコー社トナーカートリッジ事案の終結と現在の受付状況",
