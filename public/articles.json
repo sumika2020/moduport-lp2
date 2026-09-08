@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 522,
+    "total_articles": 523,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -25,6 +25,15 @@
       "created_at": "2026-09-08",
       "period_start": "2026-09-07",
       "period_end": "2026-09-08",
+      "category": "その他"
+    },
+    {
+      "id": 852,
+      "title": "【2026年9月】知的財産侵害物品の輸入差止申立て｜ブシュロン・オフィスチェア・身飾品が新規掲載、リコー案件は受理完了",
+      "note_url": "https://note.com/prime_ixia2156/n/nb1099132de7e?sub_rt=share_pb",
+      "created_at": "2026-09-08",
+      "period_start": "2026-09-07",
+      "period_end": "2026-09-07",
       "category": "その他"
     },
     {
