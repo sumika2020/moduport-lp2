@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 526,
+    "total_articles": 527,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-09-08",
       "period_end": "2026-09-08",
       "category": "税関"
+    },
+    {
+      "id": 854,
+      "title": "【2026年9月8日】産業競争力強化法の改正省令が意見募集開始｜生活維持物品役務需要減等事業適応支援業務の認定基準が新設",
+      "note_url": "https://note.com/prime_ixia2156/n/ne103807c4835?sub_rt=share_pb",
+      "created_at": "2026-09-09",
+      "period_start": "2026-09-08",
+      "period_end": "2026-09-09",
+      "category": "その他"
     },
     {
       "id": 853,
