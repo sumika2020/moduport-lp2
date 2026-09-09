@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 525,
+    "total_articles": 526,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-09-08",
       "period_end": "2026-09-09",
       "category": "その他"
+    },
+    {
+      "id": 855,
+      "title": "【2026年9月】知的財産侵害物品の税関差止申立て状況が更新｜輸入業者が確認すべき新規案件と意見提出期限",
+      "note_url": "https://note.com/prime_ixia2156/n/ndbc3c02220ec?sub_rt=share_pb",
+      "created_at": "2026-09-09",
+      "period_start": "2026-09-08",
+      "period_end": "2026-09-08",
+      "category": "税関"
     },
     {
       "id": 853,
