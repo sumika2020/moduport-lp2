@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 536,
+    "total_articles": 537,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -94,6 +94,15 @@
       "id": 861,
       "title": "【2026年9月】消費者庁が食品ロス削減関連資料を公開｜輸入食品の表示基準と実務への影響確認ポイント",
       "note_url": "https://note.com/prime_ixia2156/n/nf2da450a59f1?sub_rt=share_pb",
+      "created_at": "2026-09-10",
+      "period_start": "2026-09-10",
+      "period_end": "2026-09-10",
+      "category": "食品"
+    },
+    {
+      "id": 860,
+      "title": "【2026年9月】消費者庁が食品ロス削減関連の消費者教育資料を公開｜輸入食品事業者が確認すべき表示基準と寄附制度",
+      "note_url": "https://note.com/prime_ixia2156/n/nbf88957b0c71?sub_rt=share_pb",
       "created_at": "2026-09-10",
       "period_start": "2026-09-10",
       "period_end": "2026-09-10",
