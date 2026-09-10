@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 528,
+    "total_articles": 529,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 869,
       "title": "【2026年9月】NACCS随意契約・競争入札情報と厚労省輸入食品監視措置の公表｜通関実務者向け最新情報",
       "note_url": "https://note.com/prime_ixia2156/n/nd0038d6de586?sub_rt=share_pb",
+      "created_at": "2026-09-10",
+      "period_start": "2026-09-09",
+      "period_end": "2026-09-10",
+      "category": "食品"
+    },
+    {
+      "id": 868,
+      "title": "【2026年9月】パブリックコメント募集案件の追加・変更｜産業競争力強化法の軽微変更定義と食品健康影響評価が新規掲載",
+      "note_url": "https://note.com/prime_ixia2156/n/n9b7c653a0636?sub_rt=share_pb",
       "created_at": "2026-09-10",
       "period_start": "2026-09-09",
       "period_end": "2026-09-10",
