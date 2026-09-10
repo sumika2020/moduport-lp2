@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 539,
+    "total_articles": 540,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -121,6 +121,15 @@
       "id": 858,
       "title": "【2025年4月】消費者庁が食品ロス削減実証事業の報告書を公開｜輸入食品の表示基準との関連性を確認",
       "note_url": "https://note.com/prime_ixia2156/n/nd3c6720c5e42?sub_rt=share_pb",
+      "created_at": "2026-09-10",
+      "period_start": "2026-09-10",
+      "period_end": "2026-09-10",
+      "category": "食品"
+    },
+    {
+      "id": 857,
+      "title": "【2026年9月】消費者庁が食品ロス削減関連資料を公開｜輸入食品の表示基準との関連性を確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nee2be3ad1698?sub_rt=share_pb",
       "created_at": "2026-09-10",
       "period_start": "2026-09-10",
       "period_end": "2026-09-10",
