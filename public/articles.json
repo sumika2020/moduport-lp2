@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 541,
+    "total_articles": 542,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-09-10",
       "period_end": "2026-09-11",
       "category": "その他"
+    },
+    {
+      "id": 871,
+      "title": "【2026年9月】消費者庁が製品安全誓約制度を拡充｜輸入食品・オンラインマーケットプレイスの実務対応ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n9bd56ce1a739?sub_rt=share_pb",
+      "created_at": "2026-09-11",
+      "period_start": "2026-09-10",
+      "period_end": "2026-09-10",
+      "category": "食品"
     },
     {
       "id": 869,
