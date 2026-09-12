@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 544,
+    "total_articles": 545,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -24,6 +24,15 @@
       "note_url": "https://note.com/prime_ixia2156/n/na41f3c48e5ff?sub_rt=share_pb",
       "created_at": "2026-09-12",
       "period_start": "2026-09-11",
+      "period_end": "2026-09-12",
+      "category": "その他"
+    },
+    {
+      "id": 877,
+      "title": "【2026年9月24日】原産地証明書の判定・発給申請システム再開｜日本商工会議所の手続き変更と実務の注意点",
+      "note_url": "https://note.com/prime_ixia2156/n/nb7be19bba669?sub_rt=share_pb",
+      "created_at": "2026-09-12",
+      "period_start": "2026-09-12",
       "period_end": "2026-09-12",
       "category": "その他"
     },
