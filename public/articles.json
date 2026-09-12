@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 545,
+    "total_articles": 546,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-09-12",
       "period_end": "2026-09-12",
       "category": "その他"
+    },
+    {
+      "id": 876,
+      "title": "【2026年9月11日】消費者庁が食品表示基準関連の予算要望資料を公開｜輸入食品の産地・添加物表示対応の動向確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nce496cbebe74?sub_rt=share_pb",
+      "created_at": "2026-09-12",
+      "period_start": "2026-09-11",
+      "period_end": "2026-09-11",
+      "category": "食品"
     },
     {
       "id": 872,
