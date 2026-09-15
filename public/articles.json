@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 552,
+    "total_articles": 553,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 882,
+      "title": "【2026年9月】リンコーコーポ通関料金25%引き上げ・直接納税方式移行｜輸入実務のコスト増加と手続き変更に注意",
+      "note_url": "https://note.com/prime_ixia2156/n/n48cc52dc025d?sub_rt=share_pb",
+      "created_at": "2026-09-15",
+      "period_start": "2026-09-14",
+      "period_end": "2026-09-15",
+      "category": "その他"
+    },
     {
       "id": 881,
       "title": "【2026年9月】輸入割当制度（たらの卵・干しするめ・こんぶ調製品）の募集期限が変更｜e-Gov パブリックコメント更新",
