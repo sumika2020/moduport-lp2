@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 554,
+    "total_articles": 555,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-09-15",
       "period_end": "2026-09-16",
       "category": "税関"
+    },
+    {
+      "id": 886,
+      "title": "知的財産侵害物品の輸出差止申立て受理状況が更新｜2026年6月11日施行の手続き変更と実務確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/nea0258243da0?sub_rt=share_pb",
+      "created_at": "2026-09-16",
+      "period_start": "2026-09-15",
+      "period_end": "2026-09-15",
+      "category": "その他"
     },
     {
       "id": 882,
