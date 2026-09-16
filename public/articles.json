@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 555,
+    "total_articles": 556,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-09-15",
       "period_end": "2026-09-15",
       "category": "その他"
+    },
+    {
+      "id": 885,
+      "title": "【2026年9月15日】コーデックス連絡協議会開催案内が掲載｜輸入食品の将来基準変更に備える実務情報",
+      "note_url": "https://note.com/prime_ixia2156/n/n412272d0b047?sub_rt=share_pb",
+      "created_at": "2026-09-16",
+      "period_start": "2026-09-15",
+      "period_end": "2026-09-15",
+      "category": "食品"
     },
     {
       "id": 882,
