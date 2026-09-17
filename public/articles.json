@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 561,
+    "total_articles": 562,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -40,6 +40,15 @@
       "id": 889,
       "title": "【2026年9月16日】食品表示基準の新規通知追加｜特別用途食品・機能性表示食品の輸入手続きに関わる最新情報確認が必須",
       "note_url": "https://note.com/prime_ixia2156/n/ncfb34de8dd14?sub_rt=share_pb",
+      "created_at": "2026-09-17",
+      "period_start": "2026-09-16",
+      "period_end": "2026-09-16",
+      "category": "食品"
+    },
+    {
+      "id": 888,
+      "title": "【2026年9月】特別用途食品の許可品一覧が更新｜輸入食品の表示基準と許可申請の実務確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/na78dbe3284e3?sub_rt=share_pb",
       "created_at": "2026-09-17",
       "period_start": "2026-09-16",
       "period_end": "2026-09-16",
