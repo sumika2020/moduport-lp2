@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 560,
+    "total_articles": 561,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-09-16",
       "period_end": "2026-09-16",
       "category": "その他"
+    },
+    {
+      "id": 889,
+      "title": "【2026年9月16日】食品表示基準の新規通知追加｜特別用途食品・機能性表示食品の輸入手続きに関わる最新情報確認が必須",
+      "note_url": "https://note.com/prime_ixia2156/n/ncfb34de8dd14?sub_rt=share_pb",
+      "created_at": "2026-09-17",
+      "period_start": "2026-09-16",
+      "period_end": "2026-09-16",
+      "category": "食品"
     },
     {
       "id": 887,
