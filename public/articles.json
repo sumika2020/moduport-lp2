@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 558,
+    "total_articles": 559,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 891,
+      "title": "【2026年9月】輸入食品監視・輸入停止措置一覧（厚労省）｜食品衛生法違反品の最新リスト確認",
+      "note_url": "https://note.com/prime_ixia2156/n/n32ee21cd9a10?sub_rt=share_pb",
+      "created_at": "2026-09-17",
+      "period_start": "2026-09-16",
+      "period_end": "2026-09-17",
+      "category": "食品"
+    },
     {
       "id": 887,
       "title": "【2026年9月15日】米税関のカナダ338条関税ガイダンス発表｜9月15日以降の輸入申告で確認すべき対象品目と関税適用",
