@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 567,
+    "total_articles": 568,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-09-18",
       "period_end": "2026-09-19",
       "category": "税関"
+    },
+    {
+      "id": 901,
+      "title": "【2026年9月18日】伝達性海綿状脳症対策に関する小委員会資料が公開｜輸入食品の安全基準と監視体制の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/n000e44785c09?sub_rt=share_pb",
+      "created_at": "2026-09-19",
+      "period_start": "2026-09-19",
+      "period_end": "2026-09-19",
+      "category": "食品"
     },
     {
       "id": 895,
