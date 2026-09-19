@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 569,
+    "total_articles": 570,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-09-18",
       "period_end": "2026-09-18",
       "category": "その他"
+    },
+    {
+      "id": 899,
+      "title": "【2026年7月30日】成田空港で共同キオスク運用開始｜税関申告手続きのデジタル化と実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n9692d39ef3f6?sub_rt=share_pb",
+      "created_at": "2026-09-19",
+      "period_start": "2026-09-18",
+      "period_end": "2026-09-18",
+      "category": "税関"
     },
     {
       "id": 895,
