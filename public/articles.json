@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 575,
+    "total_articles": 576,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 905,
+      "title": "【2026年9月】税関の知的財産侵害物品輸出差止申立て｜リコー案件の受理完了と現在の受付状況",
+      "note_url": "https://note.com/prime_ixia2156/n/n4b28cf4ea74b?sub_rt=share_pb",
+      "created_at": "2026-09-21",
+      "period_start": "2026-09-20",
+      "period_end": "2026-09-21",
+      "category": "税関"
+    },
     {
       "id": 904,
       "title": "【保存版】2026年9月13日～20日｜輸入規制・通関の公式更新まとめと実務チェック",
