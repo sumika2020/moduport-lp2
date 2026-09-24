@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 580,
+    "total_articles": 581,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-09-24",
       "period_end": "2026-09-25",
       "category": "税関"
+    },
+    {
+      "id": 911,
+      "title": "【2026年9月】消費者庁食品表示基準ページ更新｜機能性表示食品届出データベース情報の追加と輸入実務への影響確認",
+      "note_url": "https://note.com/prime_ixia2156/n/nfe977b83efe7?sub_rt=share_pb",
+      "created_at": "2026-09-25",
+      "period_start": "2026-09-24",
+      "period_end": "2026-09-25",
+      "category": "食品"
     },
     {
       "id": 908,
