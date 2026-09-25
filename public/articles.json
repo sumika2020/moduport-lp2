@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 585,
+    "total_articles": 586,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -34,6 +34,15 @@
       "created_at": "2026-09-26",
       "period_start": "2026-09-25",
       "period_end": "2026-09-26",
+      "category": "その他"
+    },
+    {
+      "id": 914,
+      "title": "【2026年9月25日】令和8年上半期の関税法違反事件取締り状況が公表｜知的財産侵害物品の差止判例3件追加で実務判断に影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n2d356ac2ed69?sub_rt=share_pb",
+      "created_at": "2026-09-26",
+      "period_start": "2026-09-25",
+      "period_end": "2026-09-25",
       "category": "その他"
     },
     {
