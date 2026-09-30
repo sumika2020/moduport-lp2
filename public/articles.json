@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 600,
+    "total_articles": 601,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -53,6 +53,15 @@
       "period_start": "2026-10-01",
       "period_end": "2026-10-01",
       "category": "その他"
+    },
+    {
+      "id": 928,
+      "title": "【2026年10月】財務省関税局の最新情報公開｜輸入実務に直接関連する変更なし",
+      "note_url": "https://note.com/prime_ixia2156/n/nc042eee2945b?sub_rt=share_pb",
+      "created_at": "2026-10-01",
+      "period_start": "2026-10-01",
+      "period_end": "2026-10-01",
+      "category": "財務省"
     },
     {
       "id": 925,
