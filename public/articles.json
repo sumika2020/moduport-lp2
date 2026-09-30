@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 592,
+    "total_articles": 593,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -25,6 +25,15 @@
       "created_at": "2026-09-30",
       "period_start": "2026-09-29",
       "period_end": "2026-09-29",
+      "category": "食品"
+    },
+    {
+      "id": 924,
+      "title": "【2026年9月29日～30日】特定原産地証明書セミナー・食品表示基準・海事物流情報の新規公開文書10件",
+      "note_url": "https://note.com/prime_ixia2156/n/nc168e3007bd7?sub_rt=share_pb",
+      "created_at": "2026-09-30",
+      "period_start": "2026-09-29",
+      "period_end": "2026-09-30",
       "category": "食品"
     },
     {
