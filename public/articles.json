@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 593,
+    "total_articles": 594,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-09-29",
       "period_end": "2026-09-30",
       "category": "食品"
+    },
+    {
+      "id": 923,
+      "title": "【2026年9月29日】知的財産侵害物品の輸入差止申立て｜任天堂の新規申立と華為案件の進展状況",
+      "note_url": "https://note.com/prime_ixia2156/n/n72b701e33a4c",
+      "created_at": "2026-09-30",
+      "period_start": "2026-09-29",
+      "period_end": "2026-09-29",
+      "category": "その他"
     },
     {
       "id": 920,
