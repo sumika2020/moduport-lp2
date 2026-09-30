@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 602,
+    "total_articles": 603,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -71,6 +71,15 @@
       "period_start": "2026-10-01",
       "period_end": "2026-10-01",
       "category": "財務省"
+    },
+    {
+      "id": 926,
+      "title": "【2026年10月】令和9年度関税改正要望の受付開始｜輸入企業が準備すべき期限と手続き",
+      "note_url": "https://note.com/prime_ixia2156/n/n6bf5b25f120b?sub_rt=share_pb",
+      "created_at": "2026-10-01",
+      "period_start": "2026-10-01",
+      "period_end": "2026-10-01",
+      "category": "その他"
     },
     {
       "id": 925,
