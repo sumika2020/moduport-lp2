@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 607,
+    "total_articles": 608,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -53,6 +53,15 @@
       "period_start": "2026-10-01",
       "period_end": "2026-10-02",
       "category": "財務省"
+    },
+    {
+      "id": 936,
+      "title": "【2026年10月】食品表示基準の改正案が意見募集終了｜輸入食品の産地・添加物表示で確認すべき実務ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/ne2443657a26d?sub_rt=share_pb",
+      "created_at": "2026-10-02",
+      "period_start": "2026-10-01",
+      "period_end": "2026-10-02",
+      "category": "食品"
     },
     {
       "id": 933,
