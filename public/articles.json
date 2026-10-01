@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 606,
+    "total_articles": 607,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -43,6 +43,15 @@
       "created_at": "2026-10-02",
       "period_start": "2026-10-01",
       "period_end": "2026-10-01",
+      "category": "財務省"
+    },
+    {
+      "id": 937,
+      "title": "【2026年10月】財務省財政金融統計月報第882号が公開｜輸入実務者向け経済分析資料の最新版",
+      "note_url": "https://note.com/prime_ixia2156/n/n99d9a2373f4f?sub_rt=share_pb",
+      "created_at": "2026-10-02",
+      "period_start": "2026-10-01",
+      "period_end": "2026-10-02",
       "category": "財務省"
     },
     {
