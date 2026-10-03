@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 612,
+    "total_articles": 613,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-10-02",
       "period_end": "2026-10-02",
       "category": "その他"
+    },
+    {
+      "id": 942,
+      "title": "【2026年10月】厚労省 機能性表示食品の安全基準検討開始｜輸入食品の許認可基準変更に注視",
+      "note_url": "https://note.com/prime_ixia2156/n/nd7ed3477577c?sub_rt=share_pb",
+      "created_at": "2026-10-03",
+      "period_start": "2026-10-02",
+      "period_end": "2026-10-02",
+      "category": "食品"
     },
     {
       "id": 940,
