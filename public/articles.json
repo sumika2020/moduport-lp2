@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 613,
+    "total_articles": 614,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-10-02",
       "period_end": "2026-10-02",
       "category": "食品"
+    },
+    {
+      "id": 941,
+      "title": "【2026年10月】CO₂貯留事業ガイドライン・副首都整備法施行令など6件のパブリックコメント募集開始｜輸入実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/ncd94d0f1863f?sub_rt=share_pb",
+      "created_at": "2026-10-03",
+      "period_start": "2026-10-02",
+      "period_end": "2026-10-03",
+      "category": "その他"
     },
     {
       "id": 940,
