@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 614,
+    "total_articles": 615,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 945,
+      "title": "【2026年10月】輸出差止申立て案件の終了と海事振興連盟の特定タンカー法対象拡大決議｜輸入実務への影響確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n5a7c565d4a4a?sub_rt=share_pb",
+      "created_at": "2026-10-04",
+      "period_start": "2026-10-03",
+      "period_end": "2026-10-04",
+      "category": "その他"
+    },
     {
       "id": 944,
       "title": "【2026年10月】JETRO・消費者庁の輸入関連情報が更新｜食品表示基準・通商動向の最新情報を確認",
