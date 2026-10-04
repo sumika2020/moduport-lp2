@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 616,
+    "total_articles": 617,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 947,
+      "title": "【2026年10月】無人航空機の安定供給確保取組方針改正｜e-Gov パブリックコメント受付開始と税関知的財産差止手続きの変更",
+      "note_url": "https://note.com/prime_ixia2156/n/n67dcd6401968?sub_rt=share_pb",
+      "created_at": "2026-10-05",
+      "period_start": "2026-10-04",
+      "period_end": "2026-10-05",
+      "category": "税関"
+    },
     {
       "id": 946,
       "title": "【保存版】2026年9月20日～10月4日｜輸入規制・通関の公式更新まとめと実務チェック",
