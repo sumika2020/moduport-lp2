@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 615,
+    "total_articles": 616,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 946,
+      "title": "【保存版】2026年9月20日～10月4日｜輸入規制・通関の公式更新まとめと実務チェック",
+      "note_url": "https://note.com/prime_ixia2156/n/n0a4339276919?sub_rt=share_pb",
+      "created_at": "2026-10-04",
+      "period_start": "2026-09-25",
+      "period_end": "2026-10-04",
+      "category": "その他"
+    },
     {
       "id": 945,
       "title": "【2026年10月】輸出差止申立て案件の終了と海事振興連盟の特定タンカー法対象拡大決議｜輸入実務への影響確認ポイント",
