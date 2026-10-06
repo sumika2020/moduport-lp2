@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 618,
+    "total_articles": 619,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-10-05",
       "period_end": "2026-10-06",
       "category": "食品"
+    },
+    {
+      "id": 950,
+      "title": "【2026年10月】通関士試験相談窓口のメール対応廃止｜輸入実務者が確認すべき連絡先変更と対応方法",
+      "note_url": "https://note.com/prime_ixia2156/n/n30bc14f18a1a?sub_rt=share_pb",
+      "created_at": "2026-10-06",
+      "period_start": "2026-10-05",
+      "period_end": "2026-10-05",
+      "category": "その他"
     },
     {
       "id": 947,
