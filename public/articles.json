@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 624,
+    "total_articles": 625,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-10-06",
       "period_end": "2026-10-07",
       "category": "食品"
+    },
+    {
+      "id": 952,
+      "title": "【2026年10月】関税・外国為替等審議会 関税分科会の資料公開｜e-Gov パブリックコメント案件の受付締切変更も",
+      "note_url": "https://note.com/prime_ixia2156/n/nfb4aa98b4e45?sub_rt=share_pb",
+      "created_at": "2026-10-07",
+      "period_start": "2026-10-06",
+      "period_end": "2026-10-07",
+      "category": "その他"
     },
     {
       "id": 951,
