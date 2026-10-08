@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 627,
+    "total_articles": 628,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -34,6 +34,15 @@
       "created_at": "2026-10-08",
       "period_start": "2026-10-07",
       "period_end": "2026-10-08",
+      "category": "その他"
+    },
+    {
+      "id": 957,
+      "title": "【2026年10月】金の輸出入申告でExcelファイル提出が新たに選択可能に｜シリアル番号管理の実務変更と知的財産侵害物品の差止申立て動向",
+      "note_url": "https://note.com/prime_ixia2156/n/na090297bc4a9?sub_rt=share_pb",
+      "created_at": "2026-10-08",
+      "period_start": "2026-10-07",
+      "period_end": "2026-10-07",
       "category": "その他"
     },
     {
