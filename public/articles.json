@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 626,
+    "total_articles": 627,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 959,
       "title": "【2026年10月】JETRO ビジネス短信の記事更新｜米国関税還付手続き・各国投資規制の最新情報",
       "note_url": "https://note.com/prime_ixia2156/n/n66959dd33fe4?sub_rt=share_pb",
+      "created_at": "2026-10-08",
+      "period_start": "2026-10-07",
+      "period_end": "2026-10-08",
+      "category": "その他"
+    },
+    {
+      "id": 958,
+      "title": "【2026年10月】パブリックコメント新規案件3件｜医薬品・危険物船舶運送の輸入規制変更に注視",
+      "note_url": "https://note.com/prime_ixia2156/n/n944ec5d89543?sub_rt=share_pb",
       "created_at": "2026-10-08",
       "period_start": "2026-10-07",
       "period_end": "2026-10-08",
