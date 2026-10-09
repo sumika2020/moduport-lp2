@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 629,
+    "total_articles": 630,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-10-08",
       "period_end": "2026-10-09",
       "category": "その他"
+    },
+    {
+      "id": 961,
+      "title": "【2026年10月8日】消費者庁の食品表示基準ページ更新｜機能性表示食品届出データベースの改善と輸入食品表示実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/ne85cbac19502?sub_rt=share_pb",
+      "created_at": "2026-10-09",
+      "period_start": "2026-10-08",
+      "period_end": "2026-10-08",
+      "category": "食品"
     },
     {
       "id": 959,
