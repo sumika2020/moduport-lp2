@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 632,
+    "total_articles": 633,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-10-09",
       "period_end": "2026-10-09",
       "category": "その他"
+    },
+    {
+      "id": 963,
+      "title": "【2026年10月】輸入通関・貿易実務に関わる10件の制度・手続き変更と新規情報｜税関・NACCS・消費者庁の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/ncf90072df13d?sub_rt=share_pb",
+      "created_at": "2026-10-10",
+      "period_start": "2026-10-09",
+      "period_end": "2026-10-10",
+      "category": "税関"
     },
     {
       "id": 962,
