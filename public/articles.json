@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 633,
+    "total_articles": 634,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 965,
+      "title": "【2026年10月】知的財産侵害物品の輸出差止申立て解除｜税関公表リストの変更と実務確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n67db26711158?sub_rt=share_pb",
+      "created_at": "2026-10-11",
+      "period_start": "2026-10-11",
+      "period_end": "2026-10-11",
+      "category": "税関"
+    },
     {
       "id": 964,
       "title": "【2026年10月】JETRO ビジネス短信の輸入規制・通商動向更新｜米USTR関税・EU炭素国境調整メカニズムの最新情報",
