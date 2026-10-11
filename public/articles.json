@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 634,
+    "total_articles": 635,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 966,
+      "title": "【保存版】2026年10月4日～11日｜輸入規制・通関実務の公式更新まとめと実務チェック",
+      "note_url": "https://note.com/prime_ixia2156/n/n3d124497e528?sub_rt=share_pb",
+      "created_at": "2026-10-11",
+      "period_start": "2026-10-04",
+      "period_end": "2026-10-11",
+      "category": "その他"
+    },
     {
       "id": 965,
       "title": "【2026年10月】知的財産侵害物品の輸出差止申立て解除｜税関公表リストの変更と実務確認ポイント",
