@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 637,
+    "total_articles": 638,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 969,
       "title": "【2026年10月】e-Gov パブリックコメント・通関手続きデジタル化と外来生物規制強化｜輸入実務の注視ポイント",
       "note_url": "https://note.com/prime_ixia2156/n/nbd26121234cf?sub_rt=share_pb",
+      "created_at": "2026-10-14",
+      "period_start": "2026-10-13",
+      "period_end": "2026-10-14",
+      "category": "その他"
+    },
+    {
+      "id": 968,
+      "title": "【2026年10月】牛肉輸入のBSE規制が見直し対象に｜SRM範囲縮小による輸入条件の変更可能性と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n2f6fbd4764de?sub_rt=share_pb",
       "created_at": "2026-10-14",
       "period_start": "2026-10-13",
       "period_end": "2026-10-14",
