@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 639,
+    "total_articles": 640,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-10-14",
       "period_end": "2026-10-15",
       "category": "食品"
+    },
+    {
+      "id": 972,
+      "title": "【2026年10月14日】消費者庁が重大製品事故公表｜輸入ガストーチ・リチウム電池製品のリコール継続と火災多発への対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n7be74261be06?sub_rt=share_pb",
+      "created_at": "2026-10-15",
+      "period_start": "2026-10-14",
+      "period_end": "2026-10-14",
+      "category": "その他"
     },
     {
       "id": 969,
