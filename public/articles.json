@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 641,
+    "total_articles": 642,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -43,6 +43,15 @@
       "created_at": "2026-10-15",
       "period_start": "2026-10-14",
       "period_end": "2026-10-14",
+      "category": "食品"
+    },
+    {
+      "id": 970,
+      "title": "【2026年10月】機能性表示食品・健康食品の健康被害報告義務化｜輸入実務で対応すべき10の変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n089b2612a9ca?sub_rt=share_pb",
+      "created_at": "2026-10-15",
+      "period_start": "2026-10-15",
+      "period_end": "2026-10-15",
       "category": "食品"
     },
     {
