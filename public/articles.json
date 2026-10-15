@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 638,
+    "total_articles": 639,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 973,
+      "title": "【2026年10月】農薬5種の蜜蜂影響評価がパブリックコメント開始｜輸入食品・農産物の規制強化に注意",
+      "note_url": "https://note.com/prime_ixia2156/n/nb94656b2a3f3?sub_rt=share_pb",
+      "created_at": "2026-10-15",
+      "period_start": "2026-10-14",
+      "period_end": "2026-10-15",
+      "category": "食品"
+    },
     {
       "id": 969,
       "title": "【2026年10月】e-Gov パブリックコメント・通関手続きデジタル化と外来生物規制強化｜輸入実務の注視ポイント",
