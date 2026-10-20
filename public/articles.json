@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 652,
+    "total_articles": 653,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-10-19",
       "period_end": "2026-10-20",
       "category": "その他"
+    },
+    {
+      "id": 988,
+      "title": "【2026年10月】消費者庁食品表示制度ページ更新｜詐欺メール注意喚起と機能性表示食品データベース最新化",
+      "note_url": "https://note.com/prime_ixia2156/n/nc3e2795eb081?sub_rt=share_pb",
+      "created_at": "2026-10-20",
+      "period_start": "2026-10-19",
+      "period_end": "2026-10-20",
+      "category": "食品"
     },
     {
       "id": 983,
