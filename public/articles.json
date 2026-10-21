@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 658,
+    "total_articles": 659,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-10-20",
       "period_end": "2026-10-21",
       "category": "その他"
+    },
+    {
+      "id": 992,
+      "title": "【2026年10月20日】消費者庁が措置命令・重大事故公表・入札公告を同時発表｜輸入食品・製品安全・調達規制の実務確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n0defea8bad82?sub_rt=share_pb",
+      "created_at": "2026-10-21",
+      "period_start": "2026-10-20",
+      "period_end": "2026-10-20",
+      "category": "食品"
     },
     {
       "id": 989,
