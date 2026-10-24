@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 667,
+    "total_articles": 668,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 1002,
       "title": "【2026年10月】JETRO ビジネスニューズサイト停止｜輸入実務者が失う貿易情報と代替手段の確認",
       "note_url": "https://note.com/prime_ixia2156/n/n015e75063cb6?sub_rt=share_pb",
+      "created_at": "2026-10-24",
+      "period_start": "2026-10-23",
+      "period_end": "2026-10-23",
+      "category": "その他"
+    },
+    {
+      "id": 1001,
+      "title": "【2026年10月】クルーズ船・外国人旅客の消費税還付手続き変更｜最終出国地限定・Visit Japan Web導入で実務が変わる",
+      "note_url": "https://note.com/prime_ixia2156/n/nf87dd62ca6da?sub_rt=share_pb",
       "created_at": "2026-10-24",
       "period_start": "2026-10-23",
       "period_end": "2026-10-23",
