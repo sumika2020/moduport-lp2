@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 668,
+    "total_articles": 669,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -34,6 +34,15 @@
       "created_at": "2026-10-24",
       "period_start": "2026-10-23",
       "period_end": "2026-10-23",
+      "category": "その他"
+    },
+    {
+      "id": 1000,
+      "title": "【2026年10月23日】消費者庁が製品安全誓約にAliExpress新規署名｜オンラインマーケットプレイスの安全対策強化と輸入実務への影響",
+      "note_url": "https://note.com/prime_ixia2156/n/n942548cd66f4?sub_rt=share_pb",
+      "created_at": "2026-10-24",
+      "period_start": "2026-10-24",
+      "period_end": "2026-10-24",
       "category": "その他"
     },
     {
