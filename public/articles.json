@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 674,
+    "total_articles": 675,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-10-26",
       "period_end": "2026-10-26",
       "category": "その他"
+    },
+    {
+      "id": 1005,
+      "title": "【2026年10月】特定輸入事業者の報告規則改正パブコメ受付開始｜経産省省令案の変更点と実務対応期限",
+      "note_url": "https://note.com/prime_ixia2156/n/n97528bbf3913?sub_rt=share_pb",
+      "created_at": "2026-10-27",
+      "period_start": "2026-10-26",
+      "period_end": "2026-10-27",
+      "category": "経産省"
     },
     {
       "id": 1004,
