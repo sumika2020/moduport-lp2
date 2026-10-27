@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 676,
+    "total_articles": 677,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 1013,
       "title": "【2026年10月】医薬品輸入確認システムの操作手順書改訂｜個人使用輸入の理由書添付要件が明確化",
       "note_url": "https://note.com/prime_ixia2156/n/n26f2b7abd853?sub_rt=share_pb",
+      "created_at": "2026-10-28",
+      "period_start": "2026-10-27",
+      "period_end": "2026-10-28",
+      "category": "その他"
+    },
+    {
+      "id": 1012,
+      "title": "【2026年10月】ニッケル系ステンレス鋼に不当廉売関税決定｜中国・台湾産輸入品の課税開始と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n364985c0e536?sub_rt=share_pb",
       "created_at": "2026-10-28",
       "period_start": "2026-10-27",
       "period_end": "2026-10-28",
