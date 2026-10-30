@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 687,
+    "total_articles": 688,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -49,6 +49,15 @@
       "id": 1018,
       "title": "【2026年10月29日】農薬7種類の残留基準改正｜輸入穀物・野菜の検査基準が大幅変更",
       "note_url": "https://note.com/prime_ixia2156/n/nb610a5f6a0ab?sub_rt=share_pb",
+      "created_at": "2026-10-30",
+      "period_start": "2026-10-29",
+      "period_end": "2026-10-29",
+      "category": "その他"
+    },
+    {
+      "id": 1017,
+      "title": "【2026年10月】農薬残留基準の大幅改正｜メトブロムロン・ベンゾビシクロン・プロヒドロジャスモン等10農薬の新規基準設定と輸入検査対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n0c6232b91ba9?sub_rt=share_pb",
       "created_at": "2026-10-30",
       "period_start": "2026-10-29",
       "period_end": "2026-10-29",
