@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 686,
+    "total_articles": 687,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-10-29",
       "period_end": "2026-10-29",
       "category": "税関"
+    },
+    {
+      "id": 1018,
+      "title": "【2026年10月29日】農薬7種類の残留基準改正｜輸入穀物・野菜の検査基準が大幅変更",
+      "note_url": "https://note.com/prime_ixia2156/n/nb610a5f6a0ab?sub_rt=share_pb",
+      "created_at": "2026-10-30",
+      "period_start": "2026-10-29",
+      "period_end": "2026-10-29",
+      "category": "その他"
     },
     {
       "id": 1015,
