@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 688,
+    "total_articles": 689,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -62,6 +62,15 @@
       "period_start": "2026-10-29",
       "period_end": "2026-10-29",
       "category": "その他"
+    },
+    {
+      "id": 1016,
+      "title": "【2026年10月】フードバンク認証制度と抗菌性飼料添加物規制緩和｜輸入食品の品質管理・通関手続きの変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n548106c05cee?sub_rt=share_pb",
+      "created_at": "2026-10-30",
+      "period_start": "2026-10-29",
+      "period_end": "2026-10-29",
+      "category": "食品"
     },
     {
       "id": 1015,
