@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 695,
+    "total_articles": 696,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -70,6 +70,15 @@
       "created_at": "2026-10-31",
       "period_start": "2026-10-30",
       "period_end": "2026-10-30",
+      "category": "その他"
+    },
+    {
+      "id": 1022,
+      "title": "【2026年10月30日】ニッケル系ステンレス冷延鋼板の不当廉売関税が暫定から恒久化｜輸入申告・証明書提出の実務変更点",
+      "note_url": "https://note.com/prime_ixia2156/n/n7e0f01c96db5?sub_rt=share_pb",
+      "created_at": "2026-10-31",
+      "period_start": "2026-10-30",
+      "period_end": "2026-10-31",
       "category": "その他"
     },
     {
