@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 702,
+    "total_articles": 703,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 1036,
+      "title": "【2026年11月】e-Gov パブリックコメント・財務省統計更新｜輸入実務に関連する5件の制度変更・情報公開",
+      "note_url": "https://note.com/prime_ixia2156/n/n248a61f4c949",
+      "created_at": "2026-11-03",
+      "period_start": "2026-11-02",
+      "period_end": "2026-11-03",
+      "category": "財務省"
+    },
     {
       "id": 1034,
       "title": "【2026年11月】米国の中国製トレーラー高関税発動と232条交渉開始｜輸入実務への影響と対応ポイント",
