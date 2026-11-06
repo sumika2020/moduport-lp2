@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 713,
+    "total_articles": 714,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -53,6 +53,15 @@
       "period_start": "2026-11-05",
       "period_end": "2026-11-05",
       "category": "財務省"
+    },
+    {
+      "id": 1044,
+      "title": "【2026年11月】たばこ税率改正に伴う手持品課税の取扱い｜輸入者の在庫遡及課税と関税再計算が必須",
+      "note_url": "https://note.com/prime_ixia2156/n/n9600cec65066?sub_rt=share_pb",
+      "created_at": "2026-11-06",
+      "period_start": "2026-11-05",
+      "period_end": "2026-11-06",
+      "category": "その他"
     },
     {
       "id": 1043,
