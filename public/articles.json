@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 712,
+    "total_articles": 713,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-11-05",
       "period_end": "2026-11-05",
       "category": "その他"
+    },
+    {
+      "id": 1045,
+      "title": "【2026年11月】財務省経済情勢報告書が示す輸入実務リスク｜中東情勢・サプライチェーン寸断・地域別需要変化への対応",
+      "note_url": "https://note.com/prime_ixia2156/n/nf93580aef198?sub_rt=share_pb",
+      "created_at": "2026-11-06",
+      "period_start": "2026-11-05",
+      "period_end": "2026-11-05",
+      "category": "財務省"
     },
     {
       "id": 1043,
