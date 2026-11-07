@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 716,
+    "total_articles": 717,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-11-06",
       "period_end": "2026-11-06",
       "category": "税関"
+    },
+    {
+      "id": 1051,
+      "title": "【2026年11月】消費者庁が重大事故通知と食品表示基準部会を公表｜輸入食品・リチウム電池製品の安全管理が急務",
+      "note_url": "https://note.com/prime_ixia2156/n/n673db4fbade6?sub_rt=share_pb",
+      "created_at": "2026-11-07",
+      "period_start": "2026-11-06",
+      "period_end": "2026-11-07",
+      "category": "食品"
     },
     {
       "id": 1048,
