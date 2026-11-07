@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 718,
+    "total_articles": 719,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -52,6 +52,15 @@
       "created_at": "2026-11-07",
       "period_start": "2026-11-06",
       "period_end": "2026-11-06",
+      "category": "その他"
+    },
+    {
+      "id": 1049,
+      "title": "【2026年11月】危険物輸入規制改正パブコメ受付開始｜梱包・表示・輸送ルール変更に注意",
+      "note_url": "https://note.com/prime_ixia2156/n/n2e8ea03e3500?sub_rt=share_pb",
+      "created_at": "2026-11-07",
+      "period_start": "2026-11-06",
+      "period_end": "2026-11-07",
       "category": "その他"
     },
     {
