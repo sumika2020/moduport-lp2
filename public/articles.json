@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 724,
+    "total_articles": 725,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -44,6 +44,15 @@
       "period_start": "2026-11-09",
       "period_end": "2026-11-10",
       "category": "食品"
+    },
+    {
+      "id": 1056,
+      "title": "【2026年11月】FATF高リスク国・グレイリスト更新｜北朝鮮・イラン・ミャンマーとの輸入取引で強化される顧客確認と資金規制",
+      "note_url": "https://note.com/prime_ixia2156/n/ne0b229bb37b8?sub_rt=share_pb",
+      "created_at": "2026-11-10",
+      "period_start": "2026-11-09",
+      "period_end": "2026-11-09",
+      "category": "その他"
     },
     {
       "id": 1055,
