@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 722,
+    "total_articles": 723,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-11-09",
       "period_end": "2026-11-10",
       "category": "税関"
+    },
+    {
+      "id": 1058,
+      "title": "【2026年11月】金融庁・消費者庁の登録業者リストと補助金監査報告｜輸入実務への直接的影響は限定的",
+      "note_url": "https://note.com/prime_ixia2156/n/n5862b7442ddf?sub_rt=share_pb",
+      "created_at": "2026-11-10",
+      "period_start": "2026-11-09",
+      "period_end": "2026-11-09",
+      "category": "その他"
     },
     {
       "id": 1055,
