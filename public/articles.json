@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 726,
+    "total_articles": 727,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-11-10",
       "period_end": "2026-11-11",
       "category": "食品"
+    },
+    {
+      "id": 1062,
+      "title": "【2026年11月】窒素含有量規制基準の改正パブリックコメント募集開始｜輸入化学品・肥料の適合確認が必須に",
+      "note_url": "https://note.com/prime_ixia2156/n/n8142ef424d6d?sub_rt=share_pb",
+      "created_at": "2026-11-11",
+      "period_start": "2026-11-10",
+      "period_end": "2026-11-11",
+      "category": "その他"
     },
     {
       "id": 1059,
