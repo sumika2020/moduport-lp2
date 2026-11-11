@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 725,
+    "total_articles": 726,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 1063,
+      "title": "【2026年11月】トクホ新規許可製品「おさかなソーセージ」の表示規制と輸入食品の確認ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n1a51efdc3f74?sub_rt=share_pb",
+      "created_at": "2026-11-11",
+      "period_start": "2026-11-10",
+      "period_end": "2026-11-11",
+      "category": "食品"
+    },
     {
       "id": 1059,
       "title": "【2026年11月】海運市況上昇と税関採用・セミナー情報｜輸入実務の運賃・納期リスク管理ポイント",
