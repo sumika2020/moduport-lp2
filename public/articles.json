@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 729,
+    "total_articles": 730,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 1066,
+      "title": "【2026年11月】欧州EU-ETS規制による海運費用増加が輸入原価に影響｜1兆円超の負担増と実務対応",
+      "note_url": "https://note.com/prime_ixia2156/n/ne2f42c3f4805?sub_rt=share_pb",
+      "created_at": "2026-11-12",
+      "period_start": "2026-11-12",
+      "period_end": "2026-11-12",
+      "category": "その他"
+    },
     {
       "id": 1063,
       "title": "【2026年11月】トクホ新規許可製品「おさかなソーセージ」の表示規制と輸入食品の確認ポイント",
