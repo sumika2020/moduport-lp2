@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 731,
+    "total_articles": 732,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-11-11",
       "period_end": "2026-11-11",
       "category": "税関"
+    },
+    {
+      "id": 1064,
+      "title": "【2026年11月】輸入事後調査で申告漏れ72%検出｜電気機器・医療用品の高リスク品目と課税価格計上の実務注意点",
+      "note_url": "https://note.com/prime_ixia2156/n/ne1353eef224c?sub_rt=share_pb",
+      "created_at": "2026-11-12",
+      "period_start": "2026-11-11",
+      "period_end": "2026-11-12",
+      "category": "その他"
     },
     {
       "id": 1063,
