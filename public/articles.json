@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 734,
+    "total_articles": 735,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-11-13",
       "period_end": "2026-11-13",
       "category": "食品"
+    },
+    {
+      "id": 1069,
+      "title": "【2026年11月】輸入実務に関わる5つの規制変更・パブリックコメント募集｜水産物・半導体・たばこ関税の最新動向",
+      "note_url": "https://note.com/prime_ixia2156/n/na023870fbd5f?sub_rt=share_pb",
+      "created_at": "2026-11-13",
+      "period_start": "2026-11-12",
+      "period_end": "2026-11-13",
+      "category": "その他"
     },
     {
       "id": 1066,
