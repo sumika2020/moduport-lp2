@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 736,
+    "total_articles": 737,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -53,6 +53,15 @@
       "period_start": "2026-11-12",
       "period_end": "2026-11-12",
       "category": "その他"
+    },
+    {
+      "id": 1067,
+      "title": "【2026年11月12日】横浜・千葉税関の窓口運用が変更｜深夜早朝時間帯の非常駐化試行と輸入実務への対応",
+      "note_url": "https://note.com/prime_ixia2156/n/n28116086f3ad?sub_rt=share_pb",
+      "created_at": "2026-11-13",
+      "period_start": "2026-11-12",
+      "period_end": "2026-11-12",
+      "category": "税関"
     },
     {
       "id": 1066,
