@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 737,
+    "total_articles": 738,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 1072,
+      "title": "【2026年11月】横浜税関の年末年始業務体制変更と知的財産侵害物品の差止申立追加｜輸入通関の期限対応と注意点",
+      "note_url": "https://note.com/prime_ixia2156/n/na262440b22a3?sub_rt=share_pb",
+      "created_at": "2026-11-14",
+      "period_start": "2026-11-13",
+      "period_end": "2026-11-14",
+      "category": "税関"
+    },
     {
       "id": 1071,
       "title": "【2026年11月】輸入実務に関連する5つの情報源を検知｜人権DD・海運費・環境規制・JETRO最新ニュース",
