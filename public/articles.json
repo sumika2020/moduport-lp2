@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 746,
+    "total_articles": 747,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -26,6 +26,15 @@
       "period_start": "2026-11-18",
       "period_end": "2026-11-19",
       "category": "その他"
+    },
+    {
+      "id": 1082,
+      "title": "【2026年11月】税関知的財産権侵害物品対策の新規申立受理｜任天堂・プロディア商標・特許権の差し止め対象化",
+      "note_url": "https://note.com/prime_ixia2156/n/n6f5d83ce3b60?sub_rt=share_pb",
+      "created_at": "2026-11-19",
+      "period_start": "2026-11-18",
+      "period_end": "2026-11-18",
+      "category": "税関"
     },
     {
       "id": 1079,
