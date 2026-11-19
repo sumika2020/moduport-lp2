@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 745,
+    "total_articles": 746,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 1083,
+      "title": "【2026年11月】米国先端半導体輸出規制の正式化とNACCS施設移転｜輸入実務の重要変更7件",
+      "note_url": "https://note.com/prime_ixia2156/n/n2b40b5f730e5?sub_rt=share_pb",
+      "created_at": "2026-11-19",
+      "period_start": "2026-11-18",
+      "period_end": "2026-11-19",
+      "category": "その他"
+    },
     {
       "id": 1079,
       "title": "【2026年11月】海運・新燃料規制と輸入実務への影響｜アンモニア燃料船竣工による運賃・リード時間変化",
