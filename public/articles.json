@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 747,
+    "total_articles": 748,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-11-18",
       "period_end": "2026-11-18",
       "category": "税関"
+    },
+    {
+      "id": 1081,
+      "title": "【2026年11月】財務省広報誌「ファイナンス」11月号｜経済安全保障・マネロン対策が輸入実務に与える間接的影響と監視ポイント",
+      "note_url": "https://note.com/prime_ixia2156/n/n104ec6b1803e?sub_rt=share_pb",
+      "created_at": "2026-11-19",
+      "period_start": "2026-11-18",
+      "period_end": "2026-11-18",
+      "category": "財務省"
     },
     {
       "id": 1079,
