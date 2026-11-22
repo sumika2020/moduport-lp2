@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 762,
+    "total_articles": 763,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -18,6 +18,15 @@
     ]
   },
   "articles": [
+    {
+      "id": 1097,
+      "title": "【保存版】2026年11月8日～11月22日｜輸入規制・通関の公式更新まとめと実務チェック",
+      "note_url": "https://note.com/prime_ixia2156/n/n643dd151da26?sub_rt=share_pb",
+      "created_at": "2026-11-22",
+      "period_start": "2026-11-12",
+      "period_end": "2026-11-21",
+      "category": "その他"
+    },
     {
       "id": 1096,
       "title": "【2026年11月】輸入食品の表示規制が段階的に強化｜アレルギー表示拡大と栄養表示基準の変更点",
