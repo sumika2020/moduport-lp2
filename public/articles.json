@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 766,
+    "total_articles": 767,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -22,6 +22,15 @@
       "id": 1103,
       "title": "【2026年11月】EU・CBAM拡大（ノルウェー・アイスランド対象）と海事・消費者規制の動向｜輸入実務の注視ポイント",
       "note_url": "https://note.com/prime_ixia2156/n/nff46fcdf1c91?sub_rt=share_pb",
+      "created_at": "2026-11-25",
+      "period_start": "2026-11-24",
+      "period_end": "2026-11-25",
+      "category": "その他"
+    },
+    {
+      "id": 1102,
+      "title": "【2026年11月】日本・チェコ租税条約（所得税）発効｜チェコからの輸入取引で居住者認定と二重課税軽減が変わる",
+      "note_url": "https://note.com/prime_ixia2156/n/n72286263b1f7?sub_rt=share_pb",
       "created_at": "2026-11-25",
       "period_start": "2026-11-24",
       "period_end": "2026-11-25",
