@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 771,
+    "total_articles": 772,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -35,6 +35,15 @@
       "period_start": "2026-11-26",
       "period_end": "2026-11-26",
       "category": "その他"
+    },
+    {
+      "id": 1105,
+      "title": "【2026年11月】財務省関税局の経済安全保障・国際金融政策が輸入実務に与える影響｜融資条件変化と戦略物資規制の先行き",
+      "note_url": "https://note.com/prime_ixia2156/n/n99fac027c70f?sub_rt=share_pb",
+      "created_at": "2026-11-26",
+      "period_start": "2026-11-25",
+      "period_end": "2026-11-25",
+      "category": "財務省"
     },
     {
       "id": 1103,
