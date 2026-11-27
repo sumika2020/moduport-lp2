@@ -1,6 +1,6 @@
 {
   "stats": {
-    "total_articles": 775,
+    "total_articles": 776,
     "watch_targets": 36,
     "ministries_count": 11,
     "ministries": [
@@ -31,6 +31,15 @@
       "id": 1111,
       "title": "【2026年11月26日】JETROビジネス短信のニュース日付表記が統一｜輸入実務者向けニュース配信の変更点確認",
       "note_url": "https://note.com/prime_ixia2156/n/n9691032ad789?sub_rt=share_pb",
+      "created_at": "2026-11-27",
+      "period_start": "2026-11-26",
+      "period_end": "2026-11-26",
+      "category": "その他"
+    },
+    {
+      "id": 1110,
+      "title": "【2026年11月】米国トランプ政権の追加関税制度全体像｜IEEPA還付・232条・301条の実務対応ガイド",
+      "note_url": "https://note.com/prime_ixia2156/n/n4723845e9968?sub_rt=share_pb",
       "created_at": "2026-11-27",
       "period_start": "2026-11-26",
       "period_end": "2026-11-26",
